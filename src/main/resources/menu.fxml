@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.*?>
+<VBox prefHeight="426.0" prefWidth="744.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="UI.controllers.MenuController">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="461.0" prefWidth="791.0" VBox.vgrow="ALWAYS">
+            <children>
+                <Text fx:id="playerName" layoutX="183.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0"
+                      wrappingWidth="116.13671875">
+                    <font>
+                        <Font size="22.0"/>
+                    </font>
+                </Text>
+                <Label layoutX="39.0" layoutY="31.0" text="Jméno hráče - ">
+                    <font>
+                        <Font size="22.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="39.0" layoutY="84.0" text="Elo - ">
+                    <font>
+                        <Font size="22.0"/>
+                    </font>
+                </Label>
+                <Button fx:id="findBtn" onAction="#findGame" layoutX="441.0" layoutY="31.0" mnemonicParsing="false" prefHeight="105.0" prefWidth="255.0"
+                        style="-fx-background-radius: 15px;" text="Hledat hru">
+                    <font>
+                        <Font size="22.0"/>
+                    </font>
+                    <opaqueInsets>
+                        <Insets/>
+                    </opaqueInsets>
+                </Button>
+                <Text fx:id="playerElo" layoutX="90.0" layoutY="109.0" strokeType="OUTSIDE" strokeWidth="0.0"
+                      wrappingWidth="97.0">
+                    <font>
+                        <Font size="22.0"/>
+                    </font>
+                </Text>
+                <TextArea fx:id="chat" layoutX="39.0" layoutY="149.0" prefHeight="200.0" prefWidth="659.0"/>
+                <TextField fx:id="message" layoutX="37.0" layoutY="368.0" prefHeight="25.0" prefWidth="546.0"/>
+                <Button onAction="#send" layoutX="602.0" layoutY="368.0" mnemonicParsing="false" text="Odeslat zprávu"/>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.*?>
+<VBox prefHeight="348.0" prefWidth="506.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="UI.controllers.RegisterController">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="571.0" prefWidth="733.0" VBox.vgrow="ALWAYS">
+            <children>
+                <Text layoutX="81.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0"
+                      text="Vyplňte tyto informace pro registraci">
+                    <font>
+                        <Font size="23.0"/>
+                    </font>
+                </Text>
+                <Text layoutX="232.0" layoutY="120.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jméno:"/>
+                <Text layoutX="235.0" layoutY="170.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Heslo:"/>
+                <Text layoutX="223.0" layoutY="227.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Heslo znovu:"/>
+                <TextField fx:id="registerNameField" layoutX="177.0" layoutY="124.0"/>
+                <PasswordField fx:id="registerPasswordField" layoutX="177.0" layoutY="174.0"/>
+                <PasswordField fx:id="registerPasswordFieldConfirm" layoutX="177.0" layoutY="230.0"/>
+                <Button fx:id="registerConfirmBtn" onAction="#register" layoutX="204.0" layoutY="282.0"
+                        mnemonicParsing="false" prefHeight="17.0"
+                        prefWidth="98.0" text="Registrovat"/>
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>

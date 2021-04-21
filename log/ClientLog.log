@@ -1,0 +1,1199 @@
+2019-04-19 22:19:24,152 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-04-19 22:19:34,875 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-19 22:19:34,876 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-19 22:19:34,883 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-19 22:19:43,384 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: yyy
+2019-04-19 22:20:00,474 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:alojs
+2019-04-19 22:25:10,413 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-19 22:25:10,414 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-19 22:25:10,420 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-19 22:25:20,051 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aaa
+2019-04-19 22:26:40,415 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-19 22:26:40,416 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-19 22:26:40,422 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-19 22:26:51,561 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aaaa
+2019-04-19 22:26:51,566 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-19 22:27:04,898 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-19 22:27:14,748 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 05:10:19,342 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 05:10:19,343 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 05:10:19,353 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 05:10:26,826 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: ddd
+2019-04-20 05:10:26,832 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 05:10:39,203 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 05:10:39,286 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 05:10:49,693 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aaa
+2019-04-20 05:10:49,694 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 05:11:34,935 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 05:14:44,547 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 05:14:44,548 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 05:14:44,554 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 05:14:52,302 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
+2019-04-20 05:14:52,419 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 05:15:21,778 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 05:16:25,377 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 05:20:25,759 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 05:20:25,760 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 05:20:25,765 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 05:20:36,101 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 05:20:36,194 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 05:21:02,272 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:ddd
+2019-04-20 05:21:02,322 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 05:21:10,959 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: ddd
+2019-04-20 05:21:11,005 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 05:37:25,743 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 05:37:25,744 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 05:37:25,750 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 05:37:40,132 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:eee
+2019-04-20 05:37:40,263 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 06:32:33,127 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 06:32:33,127 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 06:32:33,134 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 06:32:45,405 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 06:33:16,097 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 06:40:48,330 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 06:40:48,331 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 06:40:48,336 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 06:41:03,892 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
+2019-04-20 06:41:04,020 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 06:41:27,017 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 06:41:27,064 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 06:41:50,992 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 06:45:46,575 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 06:45:46,577 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 06:45:46,584 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 06:45:54,523 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 06:45:54,745 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 07:11:05,481 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 07:11:05,482 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 07:11:05,489 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 07:11:16,883 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:qqq
+2019-04-20 07:11:17,111 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 18:01:15,109 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 18:01:15,110 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 18:01:15,119 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 18:01:27,821 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 18:10:43,394 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 18:10:43,396 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 18:10:43,401 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 18:10:52,911 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 18:11:15,517 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 18:13:02,033 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 18:13:02,035 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 18:13:02,041 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 18:13:13,111 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
+2019-04-20 18:14:52,627 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 18:58:42,303 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 18:58:42,304 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 18:58:42,312 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 18:58:55,389 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:qqq
+2019-04-20 18:58:55,500 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 18:59:06,758 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: qqq
+2019-04-20 18:59:06,768 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:06:49,863 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:06:49,864 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:06:49,870 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:07:02,601 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: qqq
+2019-04-20 19:07:02,639 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:07:28,484 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:07:58,682 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:07:58,683 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:07:58,688 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:08:05,748 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: qqq
+2019-04-20 19:08:05,785 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:08:11,876 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:09:47,743 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:09:47,745 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:09:47,751 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:09:56,931 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aa
+2019-04-20 19:09:57,044 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 19:14:16,956 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:14:16,958 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:14:16,965 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:14:38,237 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:14:38,239 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:14:38,245 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:15:03,841 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:15:12,488 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:15:12,490 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:15:12,496 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:15:19,696 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 19:15:19,732 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:15:32,476 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
+2019-04-20 19:15:32,541 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 19:15:44,960 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 19:15:44,969 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:24:30,098 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:24:30,100 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:24:30,108 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:24:41,587 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaaaa
+2019-04-20 19:24:41,701 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 19:24:52,800 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aaaaa
+2019-04-20 19:24:52,809 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:25:15,835 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:28:13,230 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:28:13,232 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:28:13,238 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:28:18,411 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 19:28:18,466 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:28:45,887 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:28:55,514 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:28:55,516 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:28:55,516 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:29:00,469 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 19:29:00,508 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:30:01,790 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:30:01,792 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:30:01,799 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:30:05,646 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 19:30:05,681 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 19:31:59,492 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:39:23,031 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:39:23,032 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:39:23,039 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:39:27,898 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aa
+2019-04-20 19:39:28,089 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 19:39:31,658 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 19:39:31,697 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-20 19:39:31,727 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: aa
+2019-04-20 19:40:42,689 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 19:40:42,691 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 19:40:42,697 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 19:40:49,269 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
+2019-04-20 19:40:49,410 DEBUG N.R.CommandRegistration [Thread-1] �sp?�n� registrace
+2019-04-20 19:40:52,843 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 19:40:52,879 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-20 19:40:52,902 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: sss
+2019-04-20 19:40:57,096 DEBUG N.S.CommandSendMsg [Thread-0] Odesl�na zpr�va: aaaa
+2019-04-20 19:40:57,101 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
+2019-04-20 19:40:57,101 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
+2019-04-20 19:40:59,315 DEBUG N.S.CommandSendMsg [Thread-0] Odesl�na zpr�va: ssss
+2019-04-20 19:40:59,317 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-04-20 19:40:59,317 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-20 19:41:00,987 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-20 19:41:00,988 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-20 19:41:01,017 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: aa elo:0
+2019-04-20 19:41:01,023 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: sss elo:0
+2019-04-20 19:41:02,948 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 19:41:04,042 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 19:41:05,101 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:06,843 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 20:09:06,844 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 20:09:06,852 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 20:09:09,266 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-20 20:09:09,337 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-20 20:09:09,373 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: aa
+2019-04-20 20:09:13,413 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-20 20:09:13,415 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-20 20:09:13,422 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-20 20:09:16,146 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: ss
+2019-04-20 20:09:16,155 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-20 20:09:18,847 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-20 20:09:18,904 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-20 20:09:18,931 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: sss
+2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-20 20:09:23,908 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-20 20:09:23,908 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-20 20:09:23,932 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: aa elo:0
+2019-04-20 20:09:23,945 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: sss elo:0
+2019-04-20 20:09:26,156 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:26,169 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-20 20:09:27,278 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:27,279 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-20 20:09:28,649 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:28,650 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-20 20:09:30,004 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:30,015 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-20 20:09:30,987 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:30,988 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odes�l�n� konce hry serveru.
+2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odes�l�n� konce hry serveru.
+2019-04-20 20:09:31,847 DEBUG N.R.CommandUpdate [Thread-1] Update klientsk�ch informac� od serveru. Nov� elo: 101
+2019-04-20 20:09:31,848 DEBUG N.R.CommandUpdate [Thread-1] Update klientsk�ch informac� od serveru. Nov� elo: 99
+2019-04-20 20:09:31,877 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 20:09:31,879 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-20 21:10:50,554 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-04-21 00:28:11,190 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-21 00:28:11,192 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-21 00:28:11,201 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-21 00:28:13,224 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-21 00:28:13,225 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-21 00:28:13,231 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-21 00:28:16,673 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-21 00:28:16,758 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-21 00:28:16,792 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: aa
+2019-04-21 00:28:20,865 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: ss
+2019-04-21 00:28:20,873 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-21 00:28:23,980 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: qq
+2019-04-21 00:28:23,985 DEBUG N.R.CommandLogin [Thread-1] Server odm�tnul login.
+2019-04-21 00:28:30,751 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-21 00:28:30,794 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-21 00:28:30,819 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: sss
+2019-04-21 00:28:33,390 DEBUG N.S.CommandSendMsg [Thread-0] Odesl�na zpr�va: aaaa
+2019-04-21 00:28:33,396 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
+2019-04-21 00:28:33,396 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
+2019-04-21 00:28:36,308 DEBUG N.S.CommandSendMsg [Thread-0] Odesl�na zpr�va: ssss
+2019-04-21 00:28:36,309 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-04-21 00:28:36,310 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-04-21 00:28:39,917 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-21 00:28:39,918 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-21 00:28:39,919 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-21 00:28:39,919 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-21 00:28:39,948 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: aa elo:0
+2019-04-21 00:28:39,957 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: sss elo:0
+2019-04-21 00:29:05,842 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:05,856 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:06,482 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:06,483 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:08,022 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:08,023 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:29:09,527 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:09,538 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:10,002 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:10,003 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:10,860 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:10,862 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:29:11,871 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:11,872 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:13,064 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:13,065 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:29:14,504 DEBUG N.S.CommandEndGame [Thread-0] Odes�l�n� konce hry serveru.
+2019-04-21 00:29:53,942 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:29:54,359 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:07,935 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-04-21 00:30:09,760 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-04-21 00:30:18,149 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-21 00:30:18,151 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-21 00:30:18,157 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-21 00:30:21,193 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-04-21 00:30:21,194 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-04-21 00:30:21,200 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-04-21 00:30:25,576 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: sss
+2019-04-21 00:30:25,661 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-21 00:30:25,692 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: sss
+2019-04-21 00:30:38,431 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihl�sit na server u�ivatelem: aa
+2019-04-21 00:30:38,483 DEBUG L.Game [Thread-1] Prid�n lok�ln� hr�?.
+2019-04-21 00:30:38,512 DEBUG N.R.CommandLogin [Thread-1] Server p?�jmul login pro: aa
+2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Prid�n druh� hr�?.
+2019-04-21 00:30:39,609 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-21 00:30:39,609 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-04-21 00:30:39,643 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: sss elo:0
+2019-04-21 00:30:39,653 DEBUG N.R.CommandStartGame [Thread-1] Hra spu�t?na. Protihr�?: aa elo:0
+2019-04-21 00:30:41,469 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:41,482 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:42,878 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:42,879 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:43,475 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:43,476 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:30:44,332 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:44,341 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:44,817 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:44,818 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:45,358 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:45,359 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:30:46,118 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:46,119 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:47,366 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:47,367 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:48,688 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:48,689 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:30:49,376 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:49,377 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:50,984 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:50,985 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:51,685 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:51,686 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:30:52,597 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:52,598 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:53,239 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:53,240 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:53,803 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:53,804 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: true
+2019-04-21 00:30:54,719 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:54,720 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:55,247 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:55,248 DEBUG N.R.CommandReciveField [Thread-1] P?ijat� data o poli s kartami: false
+2019-04-21 00:30:56,180 DEBUG N.S.CommandEndGame [Thread-0] Odes�l�n� konce hry serveru.
+2019-04-21 00:30:56,210 DEBUG N.R.CommandUpdate [Thread-1] Update klientsk�ch informac� od serveru. Nov� elo: 101
+2019-04-21 00:30:56,211 DEBUG N.R.CommandUpdate [Thread-1] Update klientsk�ch informac� od serveru. Nov� elo: 99
+2019-04-21 00:30:56,238 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-04-21 00:30:56,239 DEBUG N.S.CommandSendField [Thread-0] Odesl�no hern� pole
+2019-05-03 01:14:03,302 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:14:03,303 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:14:03,309 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:14:11,840 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu
+2019-05-03 01:14:21,671 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu
+2019-05-03 01:14:25,811 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:15:07,222 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:15:07,223 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:15:07,230 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:15:10,734 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu java.lang.InterruptedException: sleep interrupted
+2019-05-03 01:15:35,542 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:15:35,544 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:15:35,544 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:15:37,576 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu java.lang.NullPointerException
+2019-05-03 01:15:43,355 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:19:39,353 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:19:39,354 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:19:39,361 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:19:52,554 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu java.lang.NullPointerException
+2019-05-03 01:19:56,125 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:24:48,247 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:24:48,249 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:24:48,255 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:25:02,761 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu java.lang.NullPointerException
+2019-05-03 01:25:10,862 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zpr�vu java.lang.NullPointerException
+2019-05-03 01:26:54,798 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:26:54,800 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:26:54,809 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:27:34,565 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:28:56,756 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 01:28:56,757 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 01:28:56,764 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 01:28:56,924 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
+2019-05-03 01:28:56,932 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-03 02:15:14,820 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 02:15:14,821 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 02:15:14,827 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 02:15:15,009 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
+2019-05-03 02:15:15,017 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-03 21:28:26,764 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-03 21:28:26,766 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-03 21:28:26,772 DEBUG N.R.Recive [Thread-1] V�echny p?�kazy ulo�eny pro Recive.
+2019-05-03 21:28:26,908 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
+2019-05-03 21:28:26,917 ERROR N.R.Recive [Thread-1] Nem?�u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-10 09:33:21,746 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 09:33:21,752 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 09:33:21,765 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 09:36:37,044 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
+2019-05-10 10:09:19,503 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 10:09:19,526 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 10:09:19,553 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 10:09:23,582 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 86
+2019-05-10 10:13:52,524 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 10:13:52,534 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 10:13:52,553 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 10:15:14,545 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 10:15:14,543 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 10:15:14,558 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 10:19:32,078 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 10:19:32,070 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 10:19:32,120 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 10:19:50,992 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
+2019-05-10 10:20:11,811 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
+2019-05-10 11:17:53,130 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 11:17:53,173 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 11:17:53,182 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-10 11:17:57,036 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu [Ljava.lang.StackTraceElement;@6e466c23
+2019-05-10 11:24:13,442 DEBUG N.R.Recive [main] Všechny příkazy uloženy pro Recive.
+2019-05-10 11:24:13,461 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 11:24:13,477 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 11:24:17,334 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu null
+2019-05-10 11:32:49,118 DEBUG N.R.Recive [main] Všechny příkazy uloženy pro Recive.
+2019-05-10 11:32:49,151 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-10 11:32:49,154 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-10 11:32:51,824 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.NullPointerException
+	at Network.Send.Send.run(Send.java:82) [classes/:?]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+2019-05-10 11:33:11,562 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.IllegalArgumentException: Illegal base64 character 3b
+	at java.base/java.util.Base64$Decoder.decode0(Unknown Source) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Unknown Source) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Unknown Source) ~[?:?]
+	at Security.Communication.stringEncrypt(Communication.java:47) ~[classes/:?]
+	at Network.Send.Send.run(Send.java:82) [classes/:?]
+	at Network.Send.Send.run(Send.java:88) [classes/:?]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+2019-05-10 11:33:29,465 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.NullPointerException
+	at Network.Send.Send.run(Send.java:82) [classes/:?]
+	at Network.Send.Send.run(Send.java:88) [classes/:?]
+	at Network.Send.Send.run(Send.java:88) [classes/:?]
+	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
+2019-05-27 04:17:59,016 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:17:59,019 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:17:59,024 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:17:59,034 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: VSLrhBeXkvE8FWRFkD9ZMErJCsL68nAOMlmtph7BopdZs2IFppJftEugwaRgqffeR4Qznik2O5NaJwVGYdrzDaZdsK3ZAkrZzNvzRcJ0Mz2MgrSSOMgmh/FGDvhEklBn44iw4i3l9w1Z8N046hp2ma3VfJO9DR7XWfzVTxH6XYPuL7D5cc+/p/jPKSHLeKK7YOCobGGuG13ztaqJsq3ER4oyC2ouaymJjxg8KmKLh6LDa4Rdn5tLq9l9lBe2Xf9LX0bOnYImAkl833UYYHLMjfpV7qZFZqSJi0E8fFC09FAGAVY1rhcIvAdtjq8f/+/yDbsgky+tAatZjfhQa2LT7w==
+2019-05-27 04:17:59,057 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: jSV8iPvBYifIw8y82h6DZQ==
+2019-05-27 04:27:29,461 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:27:29,462 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:27:29,467 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:28:00,387 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 04:28:00,390 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.IllegalArgumentException: Illegal base64 character 3b
+	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
+	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Network.Send.Send.run(Send.java:91) [classes/:?]
+	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
+2019-05-27 04:30:06,957 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:30:06,958 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:30:06,963 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:31:04,884 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:31:04,885 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:31:04,890 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:31:14,209 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 04:34:18,397 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:34:18,398 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:34:18,403 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:35:00,922 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 04:38:48,522 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:38:48,523 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:38:48,528 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:40:12,856 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 04:40:17,492 ERROR N.S.Send [main] Nepodařilo se připojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-05-27 04:40:23,308 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:40:23,309 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:40:23,314 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:41:51,829 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 04:42:10,570 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:42:10,571 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:42:10,577 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:56:27,848 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 04:56:27,849 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 04:56:27,855 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 04:56:27,866 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: IEtKwsu+kA6JLGFHH+4HUzc/mkCfTDAxIibFNGp1N7mj9AmIM6h0fLhgrDP17wohB2NTzWcPzSkIRWyl+bC+djEe8FDl3lLb4nRuHwN47qJ8y5/QOD3UYXTePvRlaxeLHXzGDK77B35H2AQSFgyPWuJhtlzvohA/tmNoEOplq7/uUQ3CV6bs/6TM99lSd79ycQo9XuA7T64VQ6gy31tKP//k7s5PPKpuNBLkgcfAGKrI9DNxpjOkJtW6PepzzNVCe/YQg8YVvzu5gMBG/ovXwcLCqFMybp/1r5BF0IgPtQd9lIjrD6OEF13onenjIUTqvEKyebCSgMIN5rlVbQMnFA==
+2019-05-27 04:56:27,896 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: QRTgErq7qVcV54FD05iKMA==
+2019-05-27 04:56:44,102 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 04:56:44,105 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.IllegalArgumentException: Illegal base64 character 3b
+	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
+	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Network.Send.Send.run(Send.java:91) [classes/:?]
+	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
+2019-05-27 04:59:01,625 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:01:20,760 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:01:20,762 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:01:20,767 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:01:20,780 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: pMZZ4IxIgv8W3W5DrM/MVyAtXtKVnqrYgeDHYhNS9dEn+twuWT+VS1+OMu0Yw2OTm6sJLuaTmaZ2AlhtpFTaJysuFB6KOqJ104ulMc6xb33MisBRxm6a+ICT8yHSlJOQHleBnuHqE+PnEP51aHBD+1wRJqVUKpNU9oPxn8Qgdpu0ZwWwl9jgptZbNn0TDjSVCQLHARgT8DZwa4TfCkxPS/BczNbINkjp6ZHHeyLCbSEaY6gCneVNAjjFkJ1g+j1TakQPyOZKgc/WllOoPHea3BsoBl69iHIyS4otdyOxi/DoF/sj8L7tmgcuT6cPbYSLQGcxytbOKGJsE6f91pFKNQ==
+2019-05-27 05:01:20,805 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: VZUnbUP98u96ksGJ+RiaCA==
+2019-05-27 05:01:25,062 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:01:25,066 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu 
+java.lang.IllegalArgumentException: Illegal base64 character 3b
+	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
+	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
+	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Network.Send.Send.run(Send.java:91) [classes/:?]
+	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
+2019-05-27 05:08:40,855 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:08:40,856 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:08:40,861 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:08:40,873 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: coGe2WvU8Ad+5d/DBQ4Ug3b+E40UQudZLBs1dCPj4Fvt8QBcGFdvAVMF5bXWp+gelovYxqUevsCi2LEXilSDu1yJ3g9vRIsGEu7HWGkgkvDZsncPQYof3hEHZ1nTKiQ2TGdwjqOO7Yf+B/chF5FHp2HPtl1lRP3hqda2+HNLji6eCkdqwKl6xTBOuQKCPALuhOMkqg2BVUJUCoOwh6T+ZFz0DcKQjx2kc0d1aeB6Vqqbr6RFuc9Kc+b8nwqhKSIGzSciXAXjUNTIWd2lIJ99YVmvULF4eFk1hxRiloUMGjPnhHpg60+6YOujJJGRibAIw/f00/g5YqAQ2FAJ8gntNQ==
+2019-05-27 05:08:40,897 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: VYgw8PLUoGlZWqhBzGVtGw==
+2019-05-27 05:08:44,353 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:09:04,844 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:10:50,762 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:10:50,764 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:10:50,769 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:10:50,780 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: YitBimXDsGXw6reMyb+vPAU3InW7a02bi9Hns20gjUD0ogwyiarb476D5WNn8g121ivWXRCSyw84ozmWacYbvbsFA3HKAD/+yCj0ldB3HNEjGGBDyqaejSp8EjgLHHJN7oP2FxefEOz0SGtlEJry/tcdiEmDAgMdkNoT8gwdNKubLqCjIPl7aM23aSTYn2qfUuQEbtyzlrd6Bhn4rFqzusgi0ELugLRWvGWG9Sk00MoHL03NW867bb934TIChv/0GpZR4HQPmVPWf3Hi6G8sl60TpJQHk7xb0DCWXMypweqBY5QoSnxuJZpJjP91I72EkCTDfmZyYGYXrkaj+gNpQQ==
+2019-05-27 05:10:50,812 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: fRGOe2iEzyLxHZ3l6ZkMnA==
+2019-05-27 05:10:54,231 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:11:14,314 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:12:37,220 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:12:37,221 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:12:37,228 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:12:37,239 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: h+oMCfE47+TbdIP/y82PDsjuZKBFSm86QEJP93nv9Z1pcN1/oBLhHkyA86lpWUfxIiWsmyWGOr0xtay78bOgx0FvYR35iB8uhYZfujs/Tc3uW9J7hYKo3sjltZ8lkU7ubq5Y5HaOdFD4e35/G+hP7p7EYVcfufgS5wP1prNS1+/1uAoBdclNwZZ5lyAqCxjRfyuMuYbSN8kZRlE2yyB0MQW/KuXqGjpiJIb2iNoDnlDGDTZJweooW/E7BEgso5a3SpkVeM8PZsbVQ8hwDTdJOlf0lf/g7HmKRlZS7MuOwEinI8TXsv+aZgAmrSjKCKUgbrAzKYBtgOnC1ke6powEKA==
+2019-05-27 05:12:37,270 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: UjjdNQS+mBWhblFGfyjpaQ==
+2019-05-27 05:12:40,049 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:13:07,085 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:15:16,712 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:15:16,713 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:15:16,718 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:15:16,730 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: NIO5f01PJyr6FJNM5GAfJpdGu+26UEkDovcZbf9OUZxZ8k81jCRfmpw2xi7QzsuDoENYDqrzEIcuJbVP2iOqA2h6ofmP+F8dbwJvw8gcPDYAZWOHzD8nvMj/Z5kdl4gV6e2YnBmfmfXjJF+JLXQ8eGB6kvn2sQBo/sLU7nr8/8mhgJ3/djQ3qzpkDzPWJ1adFBcgt9lXDP4LH7C71YGhib50EEos19WLPJ7OVc8QGIBh9dd5Qo1acDh9Mi6o2GePaOU69v2cSNS1Kdn3gBcN+EDrZlXOicytq6ryVRd/P6MFWEYugJdtuvvLN3AIYkT9rzPzwCDf9YisSpgf+vH2Qw==
+2019-05-27 05:15:16,753 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: DghHtLbk5FlKk1dj29+MAw==
+2019-05-27 05:15:23,937 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:15:23,946 DEBUG N.S.Send [Thread-0] NtA8s3T/kzlDlQH+CeaH/A==
+2019-05-27 05:16:49,055 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:16:49,056 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:16:49,063 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:16:49,074 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: 0PN0A1egIWXQbotSUiN+LScdKwdCQPrKCIoC1Qq8xvi/wQeAP5ym816c7m+OkqggdYUUq7SmGa5BlCXSjHnjd3Jl+My8pG2HnL491FIoTTGmCnHhN+RzFa8DSxbnCtKaKRvJQFXvD41rtXuykuThJ3115law/f42ar3Ft8BP7oQLS1rbtaWcnz69MXP1VLqux0+Fg+0jUk3WGT5u9+cu61x9DWwzYo4KTTnYhcC54CuJqTaAoc+CYq+PH4CkP+ZXKMdSVGed94l+QI9s4k1Bu6MIGGM1Pq+MVthIlxOcr52Xr6rAEV+bCuPA3f3cLmiJWni3cLyOB1DXYoH4LdvmbQ==
+2019-05-27 05:16:49,105 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: pPC3oHn5rkxNbMVJJd+SRA==
+2019-05-27 05:16:52,041 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:16:52,050 DEBUG N.S.Send [Thread-0] Odeslána zupráva: e7HLgJsBHS5fek6RPIkBIg==
+2019-05-27 05:17:07,728 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:17:54,748 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:17:54,749 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:17:54,755 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:17:54,766 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: PDLZT6mpxymtKsb/btBFN7OBynL+QKk+SlM6SuHsyZQd2Z/OpBvbNiZzb2aqrAharU+7R7TxwqWxW0YHhjvlW9QmNyYNKKhQFjCY/w/8vc0PCuysvGkBlv/f3DYPzdxHBoUcDoMOssnjitKYG+8PF8Bp7expc8nrLkoXrMUfpnCfgs/Vkx34+Sl+neWvwG4ZzTYxLUCCbI59oGujB2SnjpKNFNgI6qdw4aQ9wM0v1CgjUxYaKX1oqQz9EOSoTXRbKKrAQdsWObBmg++0Zp/2u3BoPh91121caK46HlKOBXkj2oxNlkMNAxS2TY6/pISwTiapJQ2JPGCg5D76ZvOJgg==
+2019-05-27 05:17:54,794 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: gWhdFBkhnZMHWEwesfosuA==
+2019-05-27 05:17:58,230 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:17:58,238 DEBUG N.S.Send [Thread-0] Odeslána zupráva: TAPMcGtHNnfgeMnsF0C/7Q==
+2019-05-27 05:18:27,667 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:18:57,125 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:18:57,127 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:18:57,132 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:18:57,145 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: ST2tsEkDWEppcLuLi2llUFLNbMqAEzyFN7itiAOyYVqMkJIocLvMDL4qSiwlCwZh4o3VsW4PZMaYBvQ93Q2kE4QjB7FFoxBXcll3SHwK17vEu6awob9WN6a57GiozWjJOPPugmR+rLV9T8/4td9y9xZgKdtqylLV5sX2WPDH/ptJG+yu3KfZ1757rSOHWJlOzNZIWS0lYP5WIs+u1cD/GQiBDxLlnf+O0xWTu9BXvRvZ5I+yTc42/Fv5Hy4unL/OPBJ65koqONOKog8dQ4kmgDDdgJwjTWZQAhnsgy+DucgH+Co8GwneHkuIZcDLOdDsRO/GBWniOZdHLzTABnAZJQ==
+2019-05-27 05:18:57,172 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: 2Kl4kGhyA/E5RUE42bXW1g==
+2019-05-27 05:19:01,497 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:19:01,506 DEBUG N.S.Send [Thread-0] Odeslána zupráva: RsB5XFwgGIA0gEBgNvAmPw==
+2019-05-27 05:19:40,789 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:21:38,512 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:21:38,513 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:21:38,520 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:21:38,532 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: SkRAiYfAgdaCNQjrHHBCndfzZ971eZMAXEi0an8qdj3yK4aIkt9ZpMIvduG5q9imMHdZc9KobcFOIdNKVDVf3MO5T3me8EgIWfWDbCxP1lSrnFKGRdMb7St+qRIebyiZjGI9fVytSfr4NJwLREJZZio+hfJh9LLr3zrD8NFEe07muvprAZCVpirpIBz58pVxg7SjI0NN1aayXMGkzw5/Qef3sGV1s4rYwl6aLtGBoIRxukyuARS2x1BQh05S/dzUaQVTGBFyYigk6W4/3N438iBlNDx2ZkJK5zSkSjLL9+xa4Iyc6SzS2cRH5QLI39eRppAvAT3SB5b1DOIHF6qyLg==
+2019-05-27 05:21:38,562 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: QAzBj1OMHWYP1WCp9tnQ2A==
+2019-05-27 05:21:41,943 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:21:41,951 DEBUG N.S.Send [Thread-0] Odeslána zupráva: +i3NY8jZeRy1E4dFHWex+Q==
+2019-05-27 05:21:59,114 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:23:13,595 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:23:13,597 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:23:13,604 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:23:13,617 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: F4gmxtsdbRD5SdzPq48iRrLuSCbQ01xP5liiAGUL4XDxuXOi4RfVzpLhJBKtQSE9Bk5jv6wUHrb8WPvyjEHCDR+/16+9od4G1oKdTfglZvfHsdhHvvg5P1sMWn3xMAnWkzsyJJgPDU3vRqccS3m2tyKhA0ve7/kLrCfJiywp2KqyM7rCDnUnhBFSnv/X/3BO+2iGt4gQrLbk5HZbE1HGeFRR4mEhbpHln+N3jbMCxWFZPlI4Nlk57MWR/I80Fxt0iaUC5ftlDmRswJr5u11xPjNNw3FvDwB3vQAI5brMugVNN2faXcv1EGCfdNdwrH4Qy0bP/Tb2CmWVfIf8SCGYUw==
+2019-05-27 05:23:13,654 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: I7RIv0/nYuXV5IpfGp5nYw==
+2019-05-27 05:23:16,889 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:23:16,899 DEBUG N.S.Send [Thread-0] Odeslána zupráva: 5+dErCJsl6xp29YEv7jbBw==
+2019-05-27 05:25:06,972 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:25:46,659 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:25:46,660 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:25:46,666 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:25:46,678 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: VcYncWDVEDkMO7L+tUgSyFUvtCgRmZ7+oRpRtWqNXfibdqooZNeaY4c/TvAtuBlrX+jjLEZwHKv3ETQ6udC00h6wtaTJz4sqk7iHTQ8SfUwVs/0SFwGliP0RerwB5vqHxYH2Yg04X71UV1dfOayqZIkLvJgqbt3hzSJi4J3YHyafBJ6VdMrFnCTAiIjwLFbMRRFXf/V4YUIJIt1WZRSuxhjfjtXUHtLZbl/c1AVdYk+vypvI2FvzRL5771E7R1likXpsW8Oqdt+QSfARVfgGuB8iPVlj5StDazov1LM9p5XADSzW9g6r5hD7G52nGr6nJUU9plMTar/WXeno1qnchg==
+2019-05-27 05:25:46,709 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: Hk4+yVYwxLlUpuPPdcg2Sg==
+2019-05-27 05:25:55,315 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:25:55,324 DEBUG N.S.Send [Thread-0] Odeslána zupráva: 6m7FbT91HCnwx6gCWD3Myg==
+2019-05-27 05:38:28,079 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:38:28,081 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:38:28,087 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:38:28,100 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: Z+snGdvbdZSdI92WKefzsQA6GqmEZgZqeOyStYRlgARwAm3rtGFLLf6qUyjc53RRQdrmGkXI34NSWRFc2+KE12G6nck7wPPcRH6g59ohpbLoySEwxWa5djGjGz02/8jEoPZ5E5mqlyUn+6t1dobj1jgUKWs8l99ZJSrv3Gl8k0PolSg2dTJwGNs34HgotThsPhcYQPnaxo9eSYNSliafZvUjWVkyyaYm2lBAskV++kJpV2xWX8RlwXbPPB5kZ3O9gqcwV53miwjLbNqUEsJJTS0q3j9/iJeILZOan9HhxriZdsf5+CgYpfu4pzvDRiOSgGyzykXbZ/oVD9upfRr3Wg==
+2019-05-27 05:38:28,124 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: 5+LaV6v4d0i0EBE4OTDYnA==
+2019-05-27 05:38:28,129 DEBUG N.S.Send [Thread-0] Odeslána zupráva: SaPuHyWPOIgBMRe4J4k2LA==
+2019-05-27 05:38:39,993 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:38:39,996 DEBUG N.S.Send [Thread-0] Odeslána zupráva: R3nFQQwFrUlYXX8t2s9bUg==
+2019-05-27 05:41:04,744 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:41:04,745 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:41:04,750 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:41:04,762 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: v+gZORddoBdYINcnQWkVqoovEtVJXq0HTCl+xKsT6szvH2S/7vEIa/ZiUnA/MOHBtn2fc6lT32FgZ3eOJC6AwRyQIvV8sevgszfJN7fmamoA4tdi6YSZWyLZSByZ3Tfl5kJ9aMukMAhQT76Rohg2tFZaAVc84Rhhs/p4IB19yPf6oaED01vdH77Hd3M/yaFJSITzHQlZbSmj5LL3dUpz4CYypR8pkfKgQfYVExn7JNHQsONl49oFw8EjQYEjBxfDKHym59PLiGXKSEwikDfgoBnKqKNtMrtxWcoHBCTzMJI332+b+dLrRpV8ZB7Z7kpM3PooDu7G4GFeQdoNe4Jwrg==
+2019-05-27 05:41:04,788 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: /cNshs+NcCOClWPSFQZOtg==
+2019-05-27 05:41:04,794 DEBUG N.S.Send [Thread-0] Odeslána zupráva: Kv9Ew+2NAhT9058bGb7ibA==
+2019-05-27 05:41:16,374 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:41:16,377 DEBUG N.S.Send [Thread-0] Odeslána zupráva: iT2tS3UTBnJHACUeC5QEEw==
+2019-05-27 05:45:02,335 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:45:02,337 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:45:02,342 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:45:02,353 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: MCF6yxFx2QYiPu+qzTfYq4DVNE7dZd1J9S8eMS6f/XJAOHDYdhK7Fu3f1GR8dCn3BU+0cNl77FVtqEKTtUJsE6XyfoCP7M+Xc3JAjWVbbViBmbBxnhAo8UlIh5+MbuenA7A4dzO8mLdNd8UesOkugBzyFOPDBeCT5+KjUWOqbMPGi7J9Qpd/wn8PJVioATy0H5Bmf6pVg+4TXgTlBX3gL8Z5uLk8znnu+awU+1wOS7EIR4gkBU5rS4nWYQOZNJQ95hEfkYwiSmmT5FiMqZBdyJUdr6z9pxg9nkOf/C1Xxm0DVcSUHO7hIOmJW/YESsRw1svZtKaBZCNcibDEVTXbsA==
+2019-05-27 05:45:02,377 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 05:45:02,378 DEBUG N.S.Send [Thread-0] Odeslána zupráva: STARTENCRYPT/1;
+2019-05-27 05:45:02,380 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: IQ0OhnC98b6xmDcBuZfufA==
+2019-05-27 05:45:02,386 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: javax.crypto.IllegalBlockSizeException: Input length must be multiple of 16 when decrypting with padded cipher
+2019-05-27 05:52:39,719 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:52:39,721 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:52:39,727 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:52:39,740 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: RyFRp9RvMg2K3qjbXDnxneKCGufHZHx/7s6+R7yXXJTTJIsK5iX4kKmrBxPsBv+jGI5W/oAM9fjI+0tbQo9wZP7VIUhTi9VdmIYnw19h3KROkicxC4NZkkY0AzVnlB6Nqgvdj5tM4skJPLlInfCl8RhFZy0qnRUbaul8mkX0WelXZMhvKa9p1y/edNRb9CFQMptLBBkkjYz/94xsToK8BsPLHC/9H9TTGuy8OwCx6eIs19TZon54P68/8rlQUq0HW3dozT0bevoPP9GUKmh2OggX4A8SJ+o7H9WrJYVLOmRgODMQZu2tQbRjmtjuLQcHFpmweHl2jQePrMlvVD+64Q==
+2019-05-27 05:52:39,769 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 05:52:39,769 DEBUG N.S.Send [Thread-0] Odeslána zupráva: STARTENCRYPT/1;
+2019-05-27 05:52:39,772 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: k4dRLTAXUYCrknbWAOkSCQ==
+2019-05-27 05:52:55,773 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:52:55,777 DEBUG N.S.Send [Thread-0] Odeslána zupráva: uTzJclNva4c3jZAzMD8tjw==
+2019-05-27 05:53:33,437 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 05:55:15,124 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 05:55:15,125 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 05:55:15,130 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 05:55:15,143 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: gUBH6E5skW6MtxhDgtLDkPbFv4TWvEIQDbT/xIw6Z6p2zi2T7hU18z6diDMQ1waFNlei1D9ruVjF0EtdMILrXcm3J1iYW4WLtO+XZryYnAy4WBh1ePjLfGR/Snwp9gYRbRiMH+0eTpEuNmLnSvfrpBsgAzNqU5OrBhiq6U0VvHw+odqSXGTypeajjmJLnXSd8+7q5JGNWtZZC5xR+QKxkhcsgmHamCgCDehCK4IQYo6xerYpwccTMzFVwUqvK+Gr1t/cwFFmqmjq1NSbYKPQEYSqg37HaQKPlBgQ8T4w8mo3eE00//WQzRbsUrPk0HQICZb3Aux7Vw5jOSqV5t9iQQ==
+2019-05-27 05:55:15,167 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 05:55:15,168 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 05:55:15,170 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: CxJJZQDcbEyA0laYPctJ3g==
+2019-05-27 05:55:25,444 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:55:25,448 DEBUG N.S.Send [Thread-0] Odeslána zpráva: kMtxk6D3209zbbFDP+xmxQ==
+2019-05-27 05:55:27,201 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 05:55:27,202 DEBUG N.S.Send [Thread-0] Odeslána zpráva: kMtxk6D3209zbbFDP+xmxQ==
+2019-05-27 05:55:48,453 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 06:26:39,251 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:26:39,252 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:26:39,259 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:26:39,275 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: HPlw0Yl/sABhrVpqHXd1Pjl31n4QcaL3qPIqgccHhPHzLY8ClHKPD61jShZUcXhRurVa8zgfdGTUk0rjWigtFxXdrvC/LqmFkIU7bXB+v/7+zMy5OF2kmmUDE9gFa29UeSLeGJPbmedinuALCP+Hhuk7zsp9XreqYOmHI1Ec/6othtbpHnjUQKbh5XZDLbBpD7lYn95oAQ/FAKxNaY/Yk4Jq923DeDglNnCEgzz+/u54ppwWQ7mgrebFhiPtVpPUIWabxdN0CyGxZfR08hY+x8eBxZNYakXIWXpN0PyLg1Vgs0Pd5QDXG/noeE6mmR5i7ObCtqpnPZUpaxgmRaNhxg==
+2019-05-27 06:26:39,299 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:26:39,299 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:26:39,301 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: eOnIKlLXhea2s0YNGY1j9w==
+2019-05-27 06:26:43,074 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:26:43,078 DEBUG N.S.Send [Thread-0] Odeslána zpráva: nHwO+vKRsYnpqvXaitYN0Q==
+2019-05-27 06:26:43,145 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 06:27:06,180 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-05-27 06:27:06,180 DEBUG N.S.Send [Thread-0] Odeslána zpráva: vTNRwpis3y7zSIGLX7jP+A==
+2019-05-27 06:27:06,181 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 06:29:36,730 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:29:36,731 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:29:36,735 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:29:36,749 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: HBvSnnxjdpgUDCsrfz2RbDTY6hLvscayFapzL2EbZHOcoYk8653GRbmHxGPCc2CzkZF3Chh6MDLUgGbAAUuLUPTNB5i+tzQxb/3T14Iwlma1C9TalMNW+nDa8xUktJ8/6S0F28OwxuK7p/NBmBeRQcn+kKXG12mE3sXZVISB9cK0/cTQ2AUHLAH4Wf/TaHmeKkMaMyYyo0cGwKsGNAxrXpiOUCvSM8czhVI2pkPBK7+DwIgFrCN3Z0e19jJ27ggONRjUZjP2gqv+YWMeTrD7XS2JDByPnfgPoEb8uo+zc4lRRWrEjBo2lDY9UYjthgVlL8S0L/doa+myqEYdUsgYAw==
+2019-05-27 06:29:36,775 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:29:36,776 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:29:36,778 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: qtK+THtY81nqVzJqbli03g==
+2019-05-27 06:29:41,056 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:29:41,059 DEBUG N.S.Send [Thread-0] Odeslána zpráva: PAhJbZP5rndsY78CAPMRNQ==
+2019-05-27 06:29:41,121 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 06:30:16,185 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-27 06:31:11,109 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:31:11,110 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:31:11,115 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:31:11,127 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: D4WHCJ2SUipX5RliRn0fvYHku0KdDHtc6TM2UhbZIDvPPE80epuZgzcOWUL7+yWB9FkgmcUK8NggJdMoTDfDCpV0ys1+MAcqjYUs7xdju/A78lb2ME6ZPe0ouA3k2w1c1LRTwt8TqkvzkVRrii3cabDEoPYZKO0Gyoi2NzzXyJTHlrJZI5/bnBjo5J1OtZhOT1oUJcTnULWMg2diOZmLXi/WBsP5F9D18/1Bv5RY+HUh9Bp2sfh9ruI32KLjIRBrNnL8NjfFwl34wohDhDaJ275T4+estffG4BAXWzpIbH9iUPbiyNLeSc+LfwRW8IJKhl04DmIx1zD5FCiFErnAxg==
+2019-05-27 06:31:11,150 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:31:11,150 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:31:11,152 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: C08FxCL3VBBKHERk5s5mpg==
+2019-05-27 06:31:19,579 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:31:19,583 DEBUG N.S.Send [Thread-0] Odeslána zpráva: e+S/Y86HrMZsL8sWrurAUQ==
+2019-05-27 06:31:19,643 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:31:19,676 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:31:31,306 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaa
+2019-05-27 06:31:31,306 DEBUG N.S.Send [Thread-0] Odeslána zpráva: MhrYCWo5R2qLiAVTk9mDAXQER+bjn9tQtSirvEtdSeo=
+2019-05-27 06:31:31,308 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.IllegalArgumentException: Illegal base64 character 3b
+2019-05-27 06:40:46,323 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:40:46,325 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:40:46,330 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:40:46,344 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: q+T4tRYvl2srUl+vl31mK6ualVMNUKa9RjMz9N/OSiGZ9qilaQ5VHBP1dOFHxZgy6t+tafsOM9mvzJLRei09N84YRgGXhFkOmXgBk/hPTxrzxcsfWlPkNV9Te6roI+zvYdY94irKwx3ttP4AJj4bPKmgEi6SG7awaLqLAgIGYLQTOVkwV+00BNknUK1/uXBk8ShPkE/Xwf4OF4ru4N7l6dDQoKOfhCWX5Yn4T01eeMDZo3RcKinb3p4YK/nco8DdBFs12SZ7kEQtIS2OVd4ZdJlxwZTy6z+4TBawh3QtPSMGIy/JWAFLFgdl7OeicTeJccaPz7eKtYMkPK6wN9B5dg==
+2019-05-27 06:40:46,373 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:40:46,374 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:40:46,377 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: lbBPaUTkzDVLFOPUNhA0SQ==
+2019-05-27 06:40:49,423 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:40:49,427 DEBUG N.S.Send [Thread-0] Odeslána zpráva: FN/9vdCHxeB+aju3AV+2Lg==
+2019-05-27 06:40:49,511 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:40:49,541 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:40:51,766 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-05-27 06:40:51,766 DEBUG N.S.Send [Thread-0] Odeslána zpráva: NKDT7PZrFb0UlmRnn806rw==
+2019-05-27 06:40:51,768 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.IllegalArgumentException: Illegal base64 character 3b
+2019-05-27 06:41:45,851 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:41:45,852 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:41:45,857 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:41:45,861 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: M8Z2/nY1twdT2aYb6GnKI1CaDMfpQO5psvTPv9vbaQ+AGmaVmy5PLDbKqPczmT7nJgp3gn9thwmG/XV6KmKRczgi7/XY0U0yP5e8nrlNy58HklilEYVBcVG1+cAK1PH/hBT+MCWZ9NMZSsIb9k15i4EeRcPbOjVcohE7jU8Q5LNCemWOcUyLu+6LdyahrycY7HGhRpKrYfPTBBail3Qzh1hKL2UUfnrQT9HECNeeaqXllY76YUnoewtH80QOFqgSDp0Lbu7yYO9L+hsu8KpjVkhXK5b42ewqfereZe7qQUVXoxxQjIfKJaWlBwgxrsnHCK7+MkjxqnMnBLFJmj7byQ==
+2019-05-27 06:41:45,885 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:41:45,886 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:41:45,888 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: lbBPaUTkzDVLFOPUNhA0SQ==
+2019-05-27 06:41:57,384 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:41:57,388 DEBUG N.S.Send [Thread-0] Odeslána zpráva: FN/9vdCHxeB+aju3AV+2Lg==
+2019-05-27 06:41:57,420 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:41:57,449 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:41:59,798 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 06:41:59,798 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mW759tnfo2n6S1GfI5lMiQ==
+2019-05-27 06:41:59,800 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.IllegalArgumentException: Illegal base64 character 3b
+2019-05-27 06:42:51,670 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:42:51,671 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:42:51,675 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:42:51,679 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: EWf6O+HR0fsydFHCveSUohO4pyTFWLzuwJnWiBouV+Y89uV17DCfdU9POaN0MbfmoOnzR/tCm724+/v7ltRZkLQQm3XqhvUS0MLrnVFJnP/+l2PBkHX1yLOnRni3iwW/lt0sxw3wB4D+pQfUgpm2tDRRmyX7i//EmMurwRWsVoqXiw6w0Gm6JV/OGRr+XQITLC2BLwyqkowqERZJV8N58fpq3YFMJLFSYJV4xMAR4egX+jgZd6ovbm4+I2+wRdzG08KZs2f4k1NOlmsvXaY4KW6JJfdI3vF8s7mchHLoZMWrhYhYUx8+DQT+duwRqLE3Bscg6e0B2+FqHScmJPSMCQ==
+2019-05-27 06:42:51,704 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:42:51,705 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:42:51,709 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: lbBPaUTkzDVLFOPUNhA0SQ==
+2019-05-27 06:42:53,805 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:42:53,808 DEBUG N.S.Send [Thread-0] Odeslána zpráva: FN/9vdCHxeB+aju3AV+2Lg==
+2019-05-27 06:42:53,839 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:42:53,868 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:42:55,980 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 06:42:55,980 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mW759tnfo2n6S1GfI5lMiQ==
+2019-05-27 06:42:55,981 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.IllegalArgumentException: Illegal base64 character 3b
+2019-05-27 06:44:26,867 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:44:26,868 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:44:26,873 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:44:26,877 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: XnQmxg7HFmqBlMEYFi6YqXuzYFYluFGHqyWjOfrWJk/erhIurxXcJwsSsPm+eQKOrSQTQZILPcnAiP4XB1Kpt0sl+H9Z/RVWBNqcLaqrVhkrNSy8tFbe/YF1hQTv8DL9E7LaNd2vbTRJmg/gxNqwrE5pErlMyRiWMT60D7vCDqAwzhBsEj0a/xeW229VZdV0yK/EFqU1G571XohgwXWAyGOJ+zz7X7mV0k4vBNWIOMTwT9xNHr8WpQXvgriTJLbKRVfY+E/F8Cf61pBN5Pz+SCwBXzqRuTw3raKWhOy+ECdOVcyEXu3bhRPJn5+l2xLTH2ejPhuWDc0CEDAK4uUNSg==
+2019-05-27 06:44:26,903 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:44:26,903 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:44:26,906 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: lbBPaUTkzDVLFOPUNhA0SQ==
+2019-05-27 06:44:28,847 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:44:28,851 DEBUG N.S.Send [Thread-0] Odeslána zpráva: FN/9vdCHxeB+aju3AV+2Lg==
+2019-05-27 06:44:28,882 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:44:28,911 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:44:31,003 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 06:44:31,004 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mW759tnfo2n6S1GfI5lMiQ==
+2019-05-27 06:44:31,004 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: 
+2019-05-27 06:58:37,325 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 06:58:37,327 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 06:58:37,332 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 06:58:37,344 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: CzmQDFz9wt5FWGRC+p3uMY+3rSqKbxv9sejJPEYqrcCm7rgkonWZJMNMNi5ni3hwsMoZp3gWDX1YuUhfM/Yjzf7ohETCKo+9JmRIcOh06pzTCPV0kxdUfV4QrsR52uEUrUOdlK8bvBeJFPUsxVH1oK996baEVbJoG6GU8oVJxNtmLK25mN1apiZPtDk+doQ0fv4gMLC0YaUtPs0B4wcFkqx7XbQTcDsliz/osWNivpMgsmGWrywl9d7VfNUKiOOvukuq1f50omycTtyZjllLxauSsW+YJECtM+MtWwxQ7xoE84Q22q7tzFcqKZ3NUlvZLlCSJiJEMSf9U1/sqWoqrw==
+2019-05-27 06:58:37,372 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 06:58:37,373 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 06:58:37,376 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: +RR8h8QUMoHiRFolgGKx0g==
+2019-05-27 06:58:40,268 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 06:58:40,272 DEBUG N.S.Send [Thread-0] Odeslána zpráva: JHnRLBO9u/adJQfK5lvjvg==
+2019-05-27 06:58:40,347 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 06:58:40,380 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 06:58:42,917 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 06:58:42,918 DEBUG N.S.Send [Thread-0] Odeslána zpráva: tA45IPBai5+Rby3IgF4UOA==
+2019-05-27 06:58:42,920 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: 
+2019-05-27 07:00:19,426 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:00:19,427 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:00:19,431 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:00:19,436 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: WZrNv3ltdmtvrYVvNBbOTXD9ukeIgGz6MC/6i++Qbo+Pn7EylripDjzCM+w6oFP8QPPHopJjyc8mKaxws6fa4oGnPjIw/G4CR5gVe1MmBUyHX8umfMqf3AObIcjfehtBnCDUSBxTlw/lMzUWbQ+suZcnpmcD9OwowfoI33CoNNJgGYURM0bPjO3jNzdapsAiUQwyxy4+xo5auSfgnd72PhDQdurr2ABHkKi6OGubReW65OM3wzGYi8CSinCUmbELHjevB1CxBs3+AWSIjHa18ZOiavK0ZQ7mOq0VKs92hhuZQmYAgArEO/8KifcUFqWQe9NexttO0dX90MPg1SnEQQ==
+2019-05-27 07:00:19,462 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:00:19,462 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:00:19,464 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: +RR8h8QUMoHiRFolgGKx0g==
+2019-05-27 07:00:22,477 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:00:22,481 DEBUG N.S.Send [Thread-0] Odeslána zpráva: JHnRLBO9u/adJQfK5lvjvg==
+2019-05-27 07:00:22,513 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:00:22,539 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:00:24,181 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 07:00:24,182 DEBUG N.S.Send [Thread-0] Odeslána zpráva: tA45IPBai5+Rby3IgF4UOA==
+2019-05-27 07:04:07,244 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:04:07,246 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:04:07,251 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:04:07,255 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: Uz17+616tHVhi4PzFPnPhNMOUJmDhDlKpEz216iU5OFLg6j7jSvQ3XQI8B8AzkYj5ESJIbaOMQT/uCtZ1I/M83qc3pB7IuHYuPyQ+u0AqFglBN151psrHPNNZshguzBLEuNC1/RFgKBpVm5jiLNZzlppBuf15tJ8c0lJCddWkiXxqZ8S4sDiUNC3mWdrfSxHi2fl7g8Qr9fQP2WC2u2Lv85w+KE/kaLQ9ClV4YX+88PuqwqKuf/eSz6ICkaRIQMsfs1u3DRCfHmHZUI+aw5mP40i5WFWpI6fZZVTHDjURsNRvQN/vZd6TPRD8rfI6UwTaUI46t2Qqp7r/F5o1W7T3A==
+2019-05-27 07:04:07,281 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:04:07,282 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:04:07,284 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: +RR8h8QUMoHiRFolgGKx0g==
+2019-05-27 07:04:09,954 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: 
+2019-05-27 07:04:18,917 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:04:18,919 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:04:18,924 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:04:18,936 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: u4csWrbzoa+zHqWppUgXiSN/G/c2GxFXBudVZu4wA+lTCXayqFE9X6neXGvljarhW9xgSV52Dina6p/dd4LICY6AArplzREraAvNBSZQ/tW6VIjMXUlDGhAOxkOR4N7N6isEVKPLLSeFeAtMgzraQf/lNy0cl+/1IjdCwWYAazekrOyNbbQakUZST6xmdGLCGDaRLWab0/nOkze5WVONONBtRK+qAASNMl/PxACEex/kR1doLcmhXox3k5tfVzKSH7nVWsgYV7DUm+0e1UvcYsmt/FCUH+19hcVNSiQF/fwnBWjdD+l/MApBjSXU6zHL78KMiSMF/b/bUdNhtEudHQ==
+2019-05-27 07:04:18,967 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:04:18,968 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:04:18,970 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: uY7+ZIQwBCorcIXOFVU2Xw==
+2019-05-27 07:04:21,187 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:04:21,191 DEBUG N.S.Send [Thread-0] Odeslána zpráva: rAoq7G1horAJSWqw+DnjDQ==
+2019-05-27 07:04:21,271 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:04:21,304 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:04:22,628 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 07:04:22,628 DEBUG N.S.Send [Thread-0] Odeslána zpráva: YWOgtrX0pkgXyPPEcOJ9og==
+2019-05-27 07:04:22,634 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: ss
+2019-05-27 07:13:45,910 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:13:45,912 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:13:45,917 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:13:45,931 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: AER48ufJzprtozMFQDiyiVlV8nEcKP+dXBhMTM/ylY4rCioKKO26dIZCW1ty51W4TxgbVnq2Gitf98p4FpjHg1oJr0y5WdU/tKAlw7DopJj5ewYfX0bYUVC5Mm1nyTxpEgnRKuVbACDpAghW1mmNpEfvGz/Rm3VSU7v0fVh2tqCSp/xQcVJnnGNQ8yVFjf5V+Uqn42CUV8KMpvIKVQ6NgLkE9GBoumRl4rKLgzcNR3C+yHKh6zHZnDrmZnvfAIY4cecXuqzEYFXe4xGQiDQnCd5Q/SA7TtkWyi508g02xyRkKqemYx8XcNaBPpzFB+Cz6KpX/uL9x0MDXzBn1kXj8w==
+2019-05-27 07:13:45,960 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:13:45,961 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:13:45,964 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: TcsUdt3Knqxhwx1soN23cw==
+2019-05-27 07:13:54,518 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:13:54,520 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:13:54,526 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:13:54,531 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: PRfhA/D6ruk9u4AyVXliagFasSXeOrxK/FfM+C5Q3+EZOCSXelv5u7FDmzCFffGYGBNYaiM5ksgaVP5Loe7rnjWOovherES9w3/rKD1pWKleeUNn0QSK9Try17K0BFru9oobmYGNC0VnMlQqAJ/uivGYV8x1Uxdy+STYnCdnHmObBRDtAuBfEEhDlpUR0Hm2gc0TeXlhfX30/9KBI79QebJEULtwgcA82S29NsrETqdYv8UFgoV+tIqhsCjZTWs22S3jstISrbPTtG02IOwy17pnXYDT2Y1UVL8NYn8/LUCIbOP+BANhz0MDbaeZmNLHgg9QjKHL/w3ZiJaKF/OEEw==
+2019-05-27 07:13:54,563 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:13:54,563 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:13:54,565 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: TcsUdt3Knqxhwx1soN23cw==
+2019-05-27 07:13:58,158 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:13:58,162 DEBUG N.S.Send [Thread-0] Odeslána zpráva: iUOmOVItJIXcx4oZYdLkQA==
+2019-05-27 07:13:58,247 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:13:58,284 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:14:02,503 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-05-27 07:14:02,508 DEBUG N.S.Send [Thread-0] Odeslána zpráva: A3xW0B7VvPtOVTVkkH3EKA==
+2019-05-27 07:14:02,510 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 07:14:15,781 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 07:14:15,781 DEBUG N.S.Send [Thread-0] Odeslána zpráva: dT5vnVtX+vegRk5dtxSVqg==
+2019-05-27 07:14:15,827 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:14:15,853 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 07:14:19,246 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 6AQ37/Tg0cc5yJOaWij55DGTUIDLO+ZZ3ACkdePiQ/U=
+2019-05-27 07:14:19,909 DEBUG N.S.Send [Thread-0] Odeslána zpráva: T+iji+Zh8h+6A2eGFdAl2meZLqUu+R3qF10amj6/oGg=
+2019-05-27 07:20:47,623 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:20:47,624 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:20:47,629 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:20:47,641 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: Qfn4THWAC+72xorMbqqvZSNTDrpCku+vTlV8gzMsG+vinxsiTHVzcsD1oKUTVZb70EvFegKH6ju7cVCuaT938yLwcpnyRlM3v6JFpgbKFkXVC5uTCTcsZRzMm1qhirjN8mBLU9w0lJqBJF63CIcRKDuGIyNAdJ+f6b4TtuubrAIaHtaEFKR55pIvXGD2WnHNzpHBw/pEYiKFxKBTHoLOFB3SS4P0fk82M1nBpc/D+5Rqrpxmahpm7daJ/ZPuovO3PCs574SnqHF4IsNORlDslNEpjOXRAO5vy9W4/87+0Yw9DkOz7g4CZD7RbR4pi76ZHY0QCitbxOL1/IioT2Gdcw==
+2019-05-27 07:20:47,660 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:20:47,661 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:20:47,663 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: ZK4po/wuL+lIDAzCmk3SOg==
+2019-05-27 07:20:50,812 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:20:50,813 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:20:50,820 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:20:50,824 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: EAT78npYSZmB8SEjjzA3TVS8ugKz7lQ6We12z1cZe771ucPhEdUwxGhdxFXmE98vPkXhMixZlW+vaPwOlB7AoQY9yj2sF/W8oyGfo8ZRXl7LvA6pxTRiNYuujgJ0K5mpaIdkS6vWstu+ITQRLbKMhzSp37HL+3IZZ6ZwtcYVcQucn4PfeySDcGIrdCLgbp50D48kV4OJDKAc0uHUO72eT2mt3wcbb33kZ6Oi550zI6md6DzgosVKvFzqTW4w233fxD0xjluGLpO/BGc71wp1TEn53X7JNPtgzQs+BAM0OoPhGdeGEiBUPjBjiCiT/JkQc6Q1XUyUpeuA7RX6i1Sy6A==
+2019-05-27 07:20:50,853 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:20:50,854 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:20:50,856 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: ZK4po/wuL+lIDAzCmk3SOg==
+2019-05-27 07:20:56,257 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:20:56,261 DEBUG N.S.Send [Thread-0] Odeslána zpráva: dQVFu54t5GlHRTUNDS4SvA==
+2019-05-27 07:20:56,325 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:20:56,354 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:20:58,745 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 07:20:58,749 DEBUG N.S.Send [Thread-0] Odeslána zpráva: v+04I4s/Ro8x1z+85oFksA==
+2019-05-27 07:20:58,780 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:20:58,809 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 07:21:00,349 DEBUG N.S.Send [Thread-0] Odeslána zpráva: s0mrrUkETYSjhijDVxfG52sWpCvn9PcwqyIFpykCNVc=
+2019-05-27 07:21:00,892 DEBUG N.S.Send [Thread-0] Odeslána zpráva: CmZ10roPEXI+B83fbKjp8QmqdM+GvRYwxgfc5KRBIXw=
+2019-05-27 07:21:00,938 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:21:00,938 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:21:00,939 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:21:00,942 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:21:00,976 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:0
+2019-05-27 07:21:00,982 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:0
+2019-05-27 07:21:03,278 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:21:03,288 DEBUG N.S.Send [Thread-0] Odeslána zpráva: YMFSi17AAjEH47WyI1oYotH+8lPxxnu3MhmN6aR+ecBpdo341gxcRGpL5mlcBwQzd3c66gGAml+Oa4IwP3MjpBKZRPT8lKQBKxCdeNT9xd8HLHekAcKUUKcU3EUGQxUWluGDqaY28N9jtiwzpiZUM9WXJW6lZC5r5SoWgvqt9lzPd2WwpqVweb2R/rgGnVsU5488AINaqaLEeNbTWfMzKwMezOGyLuGhveVgsaJFfPz0CpGn3ZCjn5PLEXKbuWTlaHRXdGwQfxzBpDPLhwnVZjrYcG8T7r1njbN0YGnswQQLR+c7ZitcLmJk0DckCR+T
+2019-05-27 07:21:12,550 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:21:12,550 DEBUG N.S.Send [Thread-0] Odeslána zpráva: YMFSi17AAjEH47WyI1oYokPtDwvppXxgzNNn4C4PEcLgF1smgJZFq8Z2WBw05LWNMrrkg1zHaM5PADB2hlOydJdibDmSMqXd/+xfwOAcEHaK0OofOn4AF1kXr+M+Bw+eBCBH7ETstJ1AljfHDLFUU+A1s6dtr/7lbUCl6RiQnGnuyuOspPziyvO62MTvfhGGIimGgYg+eF5VP2dVwQK4LPSxpzh17TgvmMYHBHPg+lTTlqxBOOhY6aNS1LnJVv9/AWbcKSL3BFHszqYubhJSiA/7xGUXeSvpcMjQlalCllJSFnqIZX12M3K9k1scSbRD
+2019-05-27 07:21:13,122 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:21:13,123 DEBUG N.S.Send [Thread-0] Odeslána zpráva: Uol+P6xcOX2O42HYbPP3yCCotMF/eZ6sylEE+w4+TBFaKzMmr4m+ZD/9C84IbdH4HLRVCKxm8mfaCwsNMMQohiBVa2B2mAKpMJPbO8c3vMFXalH9WpV2I5F7h6JyFqqvRIM3MtBWA94BorbruN2dIPDALDEBSDAcaCjNuqEDmcvM7t06yWR/nW1C/TdoxHmgh5cWTZpQVFSRIRL9o+sJfXUcZaBr2b2Dm3T4Ac/RxI9dVqElDQGUSvtxTVKZD4ttq9RGzN4s8sXFd4HZEMqHtENFVi5Q5uj9bPomJ8M4DU8LR+c7ZitcLmJk0DckCR+T
+2019-05-27 07:22:32,389 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:22:32,391 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:22:32,398 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:22:32,403 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: Qzf9mvN8VTMLXaiP0nonEX/MroM1QHuVk9jt7RQ0THHzhtnMs36dHtK5pn0F02dBvDOfcFe1p/9IHLhvMz1DTyzpeKmCE3bTamOqViOdFSS/USXzxrI8k8Z+XvrhHsJUL3vK9v/cLlTn8ZNqfZpMoYJMO4vzXNHuv9M/myuh1b0A02UvTaRj3EAX4gtq53+3NO8zV9z4tqsxyn4KoVgNXLiAVcsasSnRkNKz3AhidphVcQwSe/Y/2gxbMAmdTKv9AtiHHuwsrWEfDwQ+vuyxjD2KZPpAk92rFQYi4xmy+Gt3dvWjaPKDD4dm5S5hiQJeQlNAlKknp88wVEmux3NfuA==
+2019-05-27 07:22:32,432 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:22:32,433 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:22:32,435 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: ZK4po/wuL+lIDAzCmk3SOg==
+2019-05-27 07:22:33,878 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:22:33,880 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:22:33,885 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:22:33,890 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: k5p7gG9baNu5CUu5+GSTjGXEz172K9XIce8BDVvMOtOrhtzlvdpg679FvME9kzK2R0HyCNwxuhZme0VsXEjgGb1xQuct60cYvPx0EgXqpBNuRYDL46SygUH9WRKrxs9sGb61r3JBliMnoyn/5I7aa3aqYaT6ioZAjyOJKY9UUwgDEcmvmtB7HkS9l/ojOZ7gIN5gcK84rpi7AfPdqnjzIgPbjOtrQIQ9wFKMf6v4Df3uP/+fQPz9K7Ut5b/zp5T1kK9GPyWwTRPeMTL++iyll7fCt928JNvB+RGmr8WIfGYq2zocmiSqIQ5yzKmK3MFnxWZafSANAIgkPsJhjIM60w==
+2019-05-27 07:22:33,916 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:22:33,916 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:22:33,919 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: ZK4po/wuL+lIDAzCmk3SOg==
+2019-05-27 07:22:39,412 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:22:39,415 DEBUG N.S.Send [Thread-0] Odeslána zpráva: dQVFu54t5GlHRTUNDS4SvA==
+2019-05-27 07:22:39,447 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:22:39,482 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:22:41,521 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-05-27 07:22:41,525 DEBUG N.S.Send [Thread-0] Odeslána zpráva: jhLpwZ5k/H7ZaUZgHR3k2Q==
+2019-05-27 07:22:41,527 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 07:22:46,051 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 07:22:46,052 DEBUG N.S.Send [Thread-0] Odeslána zpráva: v+04I4s/Ro8x1z+85oFksA==
+2019-05-27 07:22:46,082 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:22:46,108 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 07:22:47,519 DEBUG N.S.Send [Thread-0] Odeslána zpráva: s0mrrUkETYSjhijDVxfG52sWpCvn9PcwqyIFpykCNVc=
+2019-05-27 07:22:47,930 DEBUG N.S.Send [Thread-0] Odeslána zpráva: CmZ10roPEXI+B83fbKjp8QmqdM+GvRYwxgfc5KRBIXw=
+2019-05-27 07:22:47,965 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:22:47,965 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:22:47,966 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:22:47,966 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:22:47,998 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:0
+2019-05-27 07:22:48,008 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:0
+2019-05-27 07:22:49,820 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:22:49,829 DEBUG N.S.Send [Thread-0] Odeslána zpráva: pCr3hpJXCLfLANOYuh8uB5cSCLn8fn7sGr7e5M+ImzOxglj1M6QYmfG8ayNaaBG+q9RGzN4s8sXFd4HZEMqHtP8cXtspzZYWzWaLrS8YgT3UL4WXUMPVc7DxRaDnYkhvluGDqaY28N9jtiwzpiZUM9WXJW6lZC5r5SoWgvqt9lyy1LOgg3gCxnPDE4OijVMJ06QQJm6GPYWpyGz2/HnnFJQxHl9Xy114bF9MEhmi2Pz7eTx6sEe1pk6+864Redf7Mrrkg1zHaM5PADB2hlOydDrYcG8T7r1njbN0YGnswQQLR+c7ZitcLmJk0DckCR+T
+2019-05-27 07:22:50,750 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:22:50,750 DEBUG N.S.Send [Thread-0] Odeslána zpráva: pCr3hpJXCLfLANOYuh8uB2t09bL23gZ91NKZKrVwRVvwwCwxAUgwHGgozbqhA5nLaHRXdGwQfxzBpDPLhwnVZmLEF7U0ICXlE/PPpjlcuxqHndecT7D/OjSn3twonrG9BCBH7ETstJ1AljfHDLFUU+A1s6dtr/7lbUCl6RiQnGmvbSlpsmP65VakX8nSfadHjSKDpQzYBmATIqy59rINdhWNHvvwP53i125HiHriWpCev96g9+CojX1nzgSJlebh9q9oiwXUZa2zyZXh1FklYQ/7xGUXeSvpcMjQlalCllJSFnqIZX12M3K9k1scSbRD
+2019-05-27 07:23:01,098 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:23:01,099 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 7xSSh6cAO5+P91JYm56Obgcsd6QBwpRQpxTcRQZDFRauu/EpdHixLlOPydccCpfz05asQTjoWOmjUtS5yVb/f/avaIsF1GWts8mV4dRZJWGK36SkRcfhjXiPf/1YrwEkRIM3MtBWA94BorbruN2dIPDALDEBSDAcaCjNuqEDmcu368d5v/SQ1BPgsGHGWLBKYRghR+j1JkiEIOUA69cimpTy+sD9Y2B42e5R2Dy8OQctSeKyhSKUFPA5dAMRhIKHd3c66gGAml+Oa4IwP3MjpENFVi5Q5uj9bPomJ8M4DU8LR+c7ZitcLmJk0DckCR+T
+2019-05-27 07:33:46,481 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:33:46,482 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:33:46,486 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:33:46,500 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: B+Aa30pVE32WSwcjFgnBztuDEzMj/dKZCQ5F9RfuMcyS0p5plFZUPqVEwolpUsV5yJfllls6xFELwg/OWs3DXSG8tbqf6D0YMjacHT4Ir3JItglssgPaQfUnDTZC8GTCasYhPsa77oCYj87oZ9ODc+PRvtkkPLfz//rXcGFm6Dp00obLRsrVrTdMx5inbepoNKc1Qj/XxjhMjJ/4/BmlPsac6XejwebyAhwW95DgU+XE8Y2vYW7cIDEWqPXdKDjZWyPq71FcbEixq3ujlZ9ZgmfhwYvuh9xQ6FyGQzA4kNsB4ZwQkbigoLwLbE/mioXYDtSP7zVr/L0QAcJDQG5m+w==
+2019-05-27 07:33:46,528 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:33:46,529 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:33:46,531 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: 0ALmJsrModezDm2hJx5U8Q==
+2019-05-27 07:33:48,739 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:33:48,740 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:33:48,746 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:33:48,750 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: fTNM+7CQ44pqEZJJXLmea3le8mI+DkZqOnDqOeK3JHrow5u3rZYKeT9RvvyPE3dwkn7bkDXR5x2UmFenpDi7RGq2kmaPRXQAyKYnWP+eCCxvvT71HtBlXmH4MgFk2UJrWrCLVox4Ddc+as17yHFKM9SKSMh6DXXhPwIFidhN9OF+53SPB5YRWZ5GCvhGJyJHl7G9nssGeC7HAEPmcp/LtJmS4yFeyL+9C6oUJqH0BRq4tepwWOOhVvR1PCoLdruJnCQBAMxks5VIs5yraVYJ+bRdcmNEWwxYnKqhKb73B25LA7pp/Q6pfH9DyddmAQWl92bISLozIB11MdTP8eumgA==
+2019-05-27 07:33:48,777 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:33:48,778 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:33:48,780 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: 0ALmJsrModezDm2hJx5U8Q==
+2019-05-27 07:33:53,779 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:33:53,783 DEBUG N.S.Send [Thread-0] Odeslána zpráva: xqMddDB+k7ChuJHK8I4QGQ==
+2019-05-27 07:33:53,852 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:33:53,889 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:33:56,252 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-05-27 07:33:56,257 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 46ojCAd/XhqYKcgw9gIDeg==
+2019-05-27 07:33:56,259 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-05-27 07:34:00,261 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 07:34:00,261 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 5R/EUJmZz1LfCQRh5rCruw==
+2019-05-27 07:34:00,294 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:34:00,320 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 07:34:02,101 DEBUG N.S.Send [Thread-0] Odeslána zpráva: ulHRKHbpx/UeFZOf7dxbJm++goesIPo7JT6nD1CPRYc=
+2019-05-27 07:34:02,485 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 80mErtS9mPcpUvJoSz9WVbF+AmEFVqCLlVexD6shm8s=
+2019-05-27 07:34:02,522 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:34:02,523 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:34:02,523 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:34:02,524 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:34:02,557 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:0
+2019-05-27 07:34:02,564 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:0
+2019-05-27 07:34:05,158 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:05,169 DEBUG N.S.Send [Thread-0] Odeslána zpráva: AaN1Vp8ozjLUnRD+6GIm6KU3C3l5HdqI8khUqMUucRDkTzss3mMTbaxjuqx8L/9GFkg1SWfKhBQKEPGmFNjbMoUeQ6h5TL7CyiQjRyo7qoiNa2ZkPvZZHNZW5D6rE5aGWW7IaZoPPxmphdx0Tdz6/Qunml9RU2FvCISkEP1d2Vs/jFzlmd1HvS9RxZDhD1kPQnIYa/lnRwJz/P8+p0vqV8UPn03yIirBhI3avAPUQsoH8ePPYixlmFQV4ZPy49AZCboaV/Hk+8XfD8Xy7yl3N/wejLeHPVHwGGW1403bmrCyQ/ENqPQuvKX/yufYnCoN
+2019-05-27 07:34:05,174 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:07,756 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:07,757 DEBUG N.S.Send [Thread-0] Odeslána zpráva: AaN1Vp8ozjLUnRD+6GIm6CcNSt/P6EiPR9mPrbpIGSC4k3r8IDhOn0qhlfxDeqBrY+hQLrFN9AaKpfUJD4wwToov3g31WLRkWDGC4YFvd1WlNwt5eR3aiPJIVKjFLnEQlCEshajt02LoqdgyFaQnUxZINUlnyoQUChDxphTY2zLx0FtAld4cKUhkKR4incd6WScT/HrKLBItBcJ5NE2yZ73j6iZwGyEQ7rq8u0oPJlUCd/sBE7w0sdmc243Rx7aexMEVZaqBq8mW3Bimt5c9pHOgBww6QWwMsMrOfjR+CaKNKUaj8w1WmwtM0yo14D5B
+2019-05-27 07:34:07,758 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:08,681 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:08,681 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugm1fhWP4iX9d/Nqrn9KhPFhppQhpyX804jYmz8dEQhUIlSmcVvKxv1n2k5hZsnqFU5AWXBq0h9KwjI3jFkfTHFxii/eDfVYtGRYMYLhgW93Vfy2DaXY3oZO0pdH/s46LPqUISyFqO3TYuip2DIVpCdTSLbeVoXmeRF5r7K3YBh7ks/0m/jutONVmodGTS0rFLyyQ/ENqPQuvKX/yufYnCoN
+2019-05-27 07:34:08,683 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:34:13,315 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:13,327 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k61Vh8UTBk8WQXD8iXYyvef4UeQ6h5TL7CyiQjRyo7qoiNa2ZkPvZZHNZW5D6rE5aGWW7IaZoPPxmphdx0Tdz6/Qunml9RU2FvCISkEP1d2Vs/jFzlmd1HvS9RxZDhD1kPQnIYa/lnRwJz/P8+p0vqV8UPn03yIirBhI3avAPUQsoH8ePPYixlmFQV4ZPy49AZCboaV/Hk+8XfD8Xy7yl3NyBHJazG9n+OiiYFIAgEnGSNKUaj8w1WmwtM0yo14D5B
+2019-05-27 07:34:13,328 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:14,118 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:14,119 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k61Vh8UTBk8WQXD8iXYyvef4R+28YUREp0b+f0UXxTiyelNwt5eR3aiPJIVKjFLnEQlCEshajt02LoqdgyFaQnUxZINUlnyoQUChDxphTY2zLx0FtAld4cKUhkKR4incd6WScT/HrKLBItBcJ5NE2yZ73j6iZwGyEQ7rq8u0oPJlUCd/sBE7w0sdmc243Rx7aexMEVZaqBq8mW3Bimt5c9pKigjaYdnrbJ82k37Hg2HnjZeWXEc1lW1dAIS6++Q3b5
+2019-05-27 07:34:14,120 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:15,279 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:15,279 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugm1fhWP4iX9d/Nqrn9KhPFhppQhpyX804jYmz8dEQhUIlSmcVvKxv1n2k5hZsnqFU5AWXBq0h9KwjI3jFkfTHFxii/eDfVYtGRYMYLhgW93Vfy2DaXY3oZO0pdH/s46LPqUISyFqO3TYuip2DIVpCdTSLbeVoXmeRF5r7K3YBh7kqYas78pGjm3yu9J59BNP+uNKUaj8w1WmwtM0yo14D5B
+2019-05-27 07:34:15,281 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:34:16,347 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:16,347 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugmdQekEm2rCIQDNOFbRDcEhWW7IaZoPPxmphdx0Tdz6/Qunml9RU2FvCISkEP1d2Vs/jFzlmd1HvS9RxZDhD1kPQnIYa/lnRwJz/P8+p0vqV8UPn03yIirBhI3avAPUQsoH8ePPYixlmFQV4ZPy49AZCboaV/Hk+8XfD8Xy7yl3N/wejLeHPVHwGGW1403bmrCyQ/ENqPQuvKX/yufYnCoN
+2019-05-27 07:34:16,348 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:17,055 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:17,055 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugmdQekEm2rCIQDNOFbRDcEhWoD5igODs6xwfCJT3fLf5hZINUlnyoQUChDxphTY2zLx0FtAld4cKUhkKR4incd6WScT/HrKLBItBcJ5NE2yZ73j6iZwGyEQ7rq8u0oPJlUCd/sBE7w0sdmc243Rx7aexMEVZaqBq8mW3Bimt5c9pHOgBww6QWwMsMrOfjR+CaKNKUaj8w1WmwtM0yo14D5B
+2019-05-27 07:34:17,056 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:21,867 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:21,867 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugm1fhWP4iX9d/Nqrn9KhPFhppQhpyX804jYmz8dEQhUIlSmcVvKxv1n2k5hZsnqFU5AWXBq0h9KwjI3jFkfTHFxii/eDfVYtGRYMYLhgW93Vfy2DaXY3oZO0pdH/s46LPqUISyFqO3TYuip2DIVpCdTSLbeVoXmeRF5r7K3YBh7ks/0m/jutONVmodGTS0rFLyyQ/ENqPQuvKX/yufYnCoN
+2019-05-27 07:34:21,868 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:34:22,922 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:22,923 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k6C6eaX1FTYW8IhKQQ/V3ZW3ORUff+s1F3umbGaag6ugm1fhWP4iX9d/Nqrn9KhPFhppQhpyX804jYmz8dEQhUIjTG09baDofaJeNUwtwN6O0/jFzlmd1HvS9RxZDhD1kPQnIYa/lnRwJz/P8+p0vqV8UPn03yIirBhI3avAPUQsoH8ePPYixlmFQV4ZPy49AZCboaV/Hk+8XfD8Xy7yl3NyBHJazG9n+OiiYFIAgEnGSNKUaj8w1WmwtM0yo14D5B
+2019-05-27 07:34:22,924 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:23,984 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:23,985 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k61Vh8UTBk8WQXD8iXYyvef4UeQ6h5TL7CyiQjRyo7qoiNa2ZkPvZZHNZW5D6rE5aGWW7IaZoPPxmphdx0Tdz6/dVYfFEwZPFkFw/Il2Mr3n/x0FtAld4cKUhkKR4incd6WScT/HrKLBItBcJ5NE2yZ73j6iZwGyEQ7rq8u0oPJlUCd/sBE7w0sdmc243Rx7aexMEVZaqBq8mW3Bimt5c9pKigjaYdnrbJ82k37Hg2HnjZeWXEc1lW1dAIS6++Q3b5
+2019-05-27 07:34:23,986 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:34:25,306 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-05-27 07:34:25,307 DEBUG N.S.Send [Thread-0] Odeslána zpráva: CWoUK1ENfMmapJcP21YGbQ==
+2019-05-27 07:34:25,337 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 102
+2019-05-27 07:34:25,338 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 98
+2019-05-27 07:34:25,369 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:25,370 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k61Vh8UTBk8WQXD8iXYyvef0wD5YVQG/YMIRWp5ASgNRu1fhWP4iX9d/Nqrn9KhPFhppQhpyX804jYmz8dEQhUIjTG09baDofaJeNUwtwN6O3hhBLJHyF2i0xe7h3tfr2cii/eDfVYtGRYMYLhgW93Vfy2DaXY3oZO0pdH/s46LPqUISyFqO3TYuip2DIVpCdTSLbeVoXmeRF5r7K3YBh7kt8untsv1Nhu+ILH7zjyuq0KxZExWysff2clfeSkS8wz
+2019-05-27 07:34:25,370 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:34:25,371 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mcn4Yff9BK5bYnfmVKUB9I1rZmQ+9lkc1lbkPqsTloaoZkaDK50pe7ugqBGnw0k61Vh8UTBk8WQXD8iXYyvef4UeQ6h5TL7CyiQjRyo7qoiNa2ZkPvZZHNZW5D6rE5aGWW7IaZoPPxmphdx0Tdz6/dVYfFEwZPFkFw/Il2Mr3n/x0FtAld4cKUhkKR4incd6WScT/HrKLBItBcJ5NE2yZ73j6iZwGyEQ7rq8u0oPJlUCd/sBE7w0sdmc243Rx7aexMEVZaqBq8mW3Bimt5c9pORy9LggpsoPyBV933TK+eTZeWXEc1lW1dAIS6++Q3b5
+2019-05-27 07:34:31,343 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: sss
+2019-05-27 07:34:31,344 DEBUG N.S.Send [Thread-0] Odeslána zpráva: BJWzwf208ZqAyG/+GPcJEI0pRqPzDVabC0zTKjXgPkE=
+2019-05-27 07:34:31,349 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: sss
+2019-05-27 07:34:31,349 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: sss
+2019-05-27 07:34:32,871 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: sss
+2019-05-27 07:34:32,872 DEBUG N.S.Send [Thread-0] Odeslána zpráva: ULAtauOTYkbC1fp2uE9aPtl5ZcRzWVbV0AhLr75Ddvk=
+2019-05-27 07:34:32,873 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: sss
+2019-05-27 07:34:32,874 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: sss
+2019-05-27 07:34:34,819 DEBUG N.S.Send [Thread-0] Odeslána zpráva: ulHRKHbpx/UeFZOf7dxbJm++goesIPo7JT6nD1CPRYc=
+2019-05-27 07:34:35,317 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 80mErtS9mPcpUvJoSz9WVbF+AmEFVqCLlVexD6shm8s=
+2019-05-27 07:34:35,349 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:34:35,349 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:34:35,349 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:34:35,349 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:34:35,375 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:0
+2019-05-27 07:34:35,386 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:0
+2019-05-27 07:42:46,585 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:42:46,587 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:42:46,591 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:42:46,605 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: OkjUhZkWQdCL7bfOJPfdzxK13INyEYaig0Z6CVDDIbtILQG0qugCBPiKWnCVatkCB48UCZijJOC9ildqBypqJwscE2r0cJJc7kz/SHWCOPM4gveccGuRyuLm9VpeAVs5iLZ7MEBd6JgP4vJq5m0S4E59mvg5UtbdQpAGVWjtRVlLhH3rdTEhkv91V0PkLaL6P3I7j1l4lteuAB+5eRr2YSF97/Ij4jNmyF3BEk24naMGdHPp4jZQCUiKYp07ZG+cQuBmYhZkY1GSI1AM8mDFw/lFFzLgj+Xe2CtPEpPVc9NjeZkoddmFGtXMJBDVW/toLaDca+kh8l8ZzN3xMQDyeQ==
+2019-05-27 07:42:46,628 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:42:46,629 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:42:46,632 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: fKsFMVY8k0q+RSrNhLVs6g==
+2019-05-27 07:42:47,828 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 07:42:47,829 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 07:42:47,834 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 07:42:47,838 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: alZC3salt3oAXojaiN1Pk0dHAQt0+5De20oBLViuJ4MCpa2Mk5czZafYoyciIJwh4mfPKH1LLupkY4QiJPgRSUdIc0xNiNaUxOHUxrMpEEGZ4/9Z3g/0HvwOG7U1W4/Z4XJClbreAhulRkTUfZAB43lD7vdenrg3yVa69tE+93n8KVO/Tu7fhJ3sb5Mz/P/xT5tnJ7WzCDj2rWpkljyGnFtS9fkE9Zbl+c+Ly4Hg5+kW15VMciQg/gY2MHb2AaymQl93jAUWkf3IVnz2H+eA1O9u9d4JU44pz0zG5vpcZMaVoBolHbycR7wUaXqoJNSRqp8ilsqdG95OjFMeLgA7OQ==
+2019-05-27 07:42:47,864 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 07:42:47,865 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 07:42:47,867 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: fKsFMVY8k0q+RSrNhLVs6g==
+2019-05-27 07:42:52,907 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 07:42:52,911 DEBUG N.S.Send [Thread-0] Odeslána zpráva: XZnXj9uz8eo1JeDh8IrHAw==
+2019-05-27 07:42:52,977 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:42:53,016 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 07:42:56,123 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 07:42:56,127 DEBUG N.S.Send [Thread-0] Odeslána zpráva: MIDLGS8G05iHU/8cWQ6bbA==
+2019-05-27 07:42:56,161 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 07:42:56,191 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 07:42:57,973 DEBUG N.S.Send [Thread-0] Odeslána zpráva: yzTSz9pOWWGEHjnmTzvSwKQmWqDXPCrJ4q1YoGyUqnY=
+2019-05-27 07:42:58,506 DEBUG N.S.Send [Thread-0] Odeslána zpráva: ftu781CFPyXxh5pP7KCtjzjg3Npe6WSGwY0TMMRH7ps=
+2019-05-27 07:42:58,540 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:42:58,541 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 07:42:58,541 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:42:58,542 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 07:42:58,581 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-05-27 07:42:58,594 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:102
+2019-05-27 07:43:07,299 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:07,310 DEBUG N.S.Send [Thread-0] Odeslána zpráva: RtrbQGvCj+iCl4CAo8bjWdFG+Mbmko6yC5+BKF2G0UhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnvf1zyM93QnDEkNLYfUQmvikQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:07,314 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:08,048 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:08,049 DEBUG N.S.Send [Thread-0] Odeslána zpráva: RtrbQGvCj+iCl4CAo8bjWavuDGgZ9El9KlaXYVf/nIju4W19ye6qEHMX4LQqrnw0wxacDdQH4ZSdwiSwaUsTkJtuyWsUUcgtUN/ylnl0E7dAYQb7+3ml4gZ16MfHWyI1kiuoLCCUxvdeQdvakCLVx+VTSn9fGcB2wOwu5vtP5wKOFLrN+qd71X1kguNYvgPNfF3aohsUJcvMLAEpxb3r54Q0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWAyAF9j4qT+owWQN0wHjjfZTMOXXyMXv8Y63dtLSN17f
+2019-05-27 07:43:08,050 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:08,852 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:08,853 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxRi1DsH+y7yUt5t7x+8q6cakQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:08,854 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:09,881 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:09,890 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+cp7lEOILl9UXlqtrjaWYPi0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnmcUuBU92agXJygCD7gz1zIjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:09,892 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:10,376 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:10,377 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+cp7lEOILl9UXlqtrjaWYPi0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgogATmiiv8zKxRWtMmHmpCGkiuoLCCUxvdeQdvakCLVx+VTSn9fGcB2wOwu5vtP5wKOFLrN+qd71X1kguNYvgPNfF3aohsUJcvMLAEpxb3r54Q0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWCaERzLU83DMBRv4nYSKYWSkQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:10,378 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:11,003 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:11,004 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxZvQx1aUBPAtfgmVW2GKwSEjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:11,006 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:11,759 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:11,760 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZU+HuqzPlhWYPgIxwZiUFk0Nd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnvf1zyM93QnDEkNLYfUQmvikQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:11,761 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:12,350 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:12,350 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+clZ+Hx+YnHVZ3JcZ4emPFslN2edFYvB6tBimUCAYYkjoy+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCty2pfp5UI09uUsBxSWhwytOVTSn9fGcB2wOwu5vtP5wKOFLrN+qd71X1kguNYvgPNfF3aohsUJcvMLAEpxb3r54Q0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWAyAF9j4qT+owWQN0wHjjfZTMOXXyMXv8Y63dtLSN17f
+2019-05-27 07:43:12,351 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:13,471 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:13,472 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxRi1DsH+y7yUt5t7x+8q6cakQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:13,473 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:14,272 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:14,272 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLiX1jh/ZN7ZBKL0yJna0jOIy+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnmcUuBU92agXJygCD7gz1zIjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:14,273 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:15,205 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:15,206 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+cp7lEOILl9UXlqtrjaWYPipzKgs3pKv3kJRE+PFqabJZtuyWsUUcgtUN/ylnl0E7dAYQb7+3ml4gZ16MfHWyI1kiuoLCCUxvdeQdvakCLVx+VTSn9fGcB2wOwu5vtP5wKOFLrN+qd71X1kguNYvgPNfF3aohsUJcvMLAEpxb3r54Q0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWCaERzLU83DMBRv4nYSKYWSkQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:15,207 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:16,113 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:16,114 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxZvQx1aUBPAtfgmVW2GKwSEjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:16,115 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:16,915 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:16,915 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHh1EDjZPqIGKVHO/zu1cKJhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnvf1zyM93QnDEkNLYfUQmvikQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:16,917 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:17,777 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:17,777 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHh1EDjZPqIGKVHO/zu1cKJhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgogATmiiv8zKxRWtMmHmpCGkiuoLCCUxvdeQdvakCLVx+VTSn9fGcB2wOwu5vtP5wKOFLrN+qd71X1kguNYvgPNfF3aohsUJcvMLAEpxb3r54Q0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWAyAF9j4qT+owWQN0wHjjfZTMOXXyMXv8Y63dtLSN17f
+2019-05-27 07:43:17,778 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:18,415 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:18,416 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxRi1DsH+y7yUt5t7x+8q6cakQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:18,417 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:19,174 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:19,175 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZU+HuqzPlhWYPgIxwZiUFk0Nd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnmcUuBU92agXJygCD7gz1zIjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:19,176 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:19,819 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:19,819 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZU+HuqzPlhWYPgIxwZiUFk0Nd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcYhQw3+iPRHksSByF1C3OdYQ0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWCaERzLU83DMBRv4nYSKYWSkQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:19,821 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:20,683 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:20,683 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxZvQx1aUBPAtfgmVW2GKwSEjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:20,685 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:21,412 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:21,413 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop+hEcEjr36fWIubTBykhm+cGsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnvf1zyM93QnDEkNLYfUQmvikQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:21,414 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:21,961 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:21,961 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+cp7lEOILl9UXlqtrjaWYPi0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcYhQw3+iPRHksSByF1C3OdYQ0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWAyAF9j4qT+owWQN0wHjjfZTMOXXyMXv8Y63dtLSN17f
+2019-05-27 07:43:21,963 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:23,055 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:23,055 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHnxd2qIbFCXLzCwBKcW96+dFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5csXwOc7ktP481jWKFnl5vhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxRi1DsH+y7yUt5t7x+8q6cakQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:23,057 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 07:43:23,973 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:23,974 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHh1EDjZPqIGKVHO/zu1cKJhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcLbvLEC9btnm50BxEK127A8GsE69eETB0816FKVvLx1ru4W19ye6qEHMX4LQqrnw0ibQ5+97sXjjad3KD28njnmcUuBU92agXJygCD7gz1zIjbhxZq1Vx/mwOpuENvDsn
+2019-05-27 07:43:23,975 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:24,690 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:24,691 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHh1EDjZPqIGKVHO/zu1cKJhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcYhQw3+iPRHksSByF1C3OdYQ0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWCaERzLU83DMBRv4nYSKYWSkQ4UHXcJH2ZxGTsKy7StN
+2019-05-27 07:43:24,692 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 07:43:27,295 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-05-27 07:43:27,295 DEBUG N.S.Send [Thread-0] Odeslána zpráva: Jhbci4zDPWcwv0Q8DHHKXA==
+2019-05-27 07:43:27,296 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-05-27 07:43:27,296 DEBUG N.S.Send [Thread-0] Odeslána zpráva: Jhbci4zDPWcwv0Q8DHHKXA==
+2019-05-27 07:43:27,322 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 99
+2019-05-27 07:43:27,323 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 101
+2019-05-27 07:43:27,353 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:27,353 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHh1EDjZPqIGKVHO/zu1cKJhDSf1ijDa19sMrSJv6ULlM0rB6OvU7aExJwCFBooaCJ4y+rLNOw4wTYdXcjV19WgrxdpqvyXXt53cDWgRGwSCtwsOq66KNlmSJIGK51xqB7ENd6Y7MHL+oCf8nBY8TXRWv2TM1LcrtKXPmD+IyvmDcYhQw3+iPRHksSByF1C3OdYQ0cIuY5VW+zvZVeLsL+n0yfI1OvQBWxc3y/OyYYXdRoQ6SQKpkUSOc2kTEtDjNWKoEPzBkLuRqWgJXD8xzhn8=
+2019-05-27 07:43:27,354 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 07:43:27,355 DEBUG N.S.Send [Thread-0] Odeslána zpráva: +e23otk4FyVJzwZXhDkgHpO/n5tGSZKDnqEVbqC5o2lFKI/Kq3r+592GiCZwG7vLw0vZNlhIgFZJVAqofQA9WdjAn1VMUG6q0mAh7ZODWfQv0veVLRxqQxDYJKfe9kSZnZ9bBZeSw/PO3lQgHxdEjqpntsQBiuftqYO2WFEk89KE+Dj3gS/Vhcb5cSpnZRop5Hb8GqqPbZa47vaJtMuatvhnSaAxTI/F/gei6Ub9EYpDSf1ijDa19sMrSJv6ULlMmoOXdwpud6o5W8AdpoksxTbl+6jmzo4DYCIfLzRtWF9j4D7pIk36t/mEEYpdgN2I
+2019-05-27 07:43:34,161 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-05-27 07:43:34,161 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3ufolDRMxDrh8GZMr8ng2lMw5dfIxe/xjrd20tI3Xt8=
+2019-05-27 07:43:34,166 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aa
+2019-05-27 07:43:34,166 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aa
+2019-05-27 07:43:35,024 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-05-27 07:43:35,024 DEBUG N.S.Send [Thread-0] Odeslána zpráva: K1PSZXQH+Cu4jB8MbiOh8Q==
+2019-05-27 07:43:35,026 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aa
+2019-05-27 07:43:35,026 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aa
+2019-05-27 07:43:36,210 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-05-27 07:43:36,210 DEBUG N.S.Send [Thread-0] Odeslána zpráva: m+ZfjzZuCAvQCYwMrGzM/w==
+2019-05-27 07:43:36,211 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: ss
+2019-05-27 07:43:36,212 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: ss
+2019-05-27 07:43:37,580 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-05-27 07:43:37,580 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3ufolDRMxDrh8GZMr8ng2lMw5dfIxe/xjrd20tI3Xt8=
+2019-05-27 07:43:37,582 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aa
+2019-05-27 07:43:37,582 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aa
+2019-05-27 16:12:18,465 ERROR N.S.Send [main] Nepodařilo se připojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-05-27 16:12:40,089 ERROR N.S.Send [main] Nepodařilo se připojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
+2019-05-27 16:15:25,129 DEBUG S.Communication [main] Vygenerovaný AES: tPJmWB9BkEwPnIBBl721QQ==
+2019-05-27 16:19:58,621 DEBUG S.Communication [main] Vygenerovaný AES: C8gzNM403hPEracyRO+gjA==
+2019-05-27 16:22:13,337 DEBUG S.Communication [main] Vygenerovaný AES: z4lQn4Yx78y13mGy/eVTQQ==
+2019-05-27 16:22:13,340 DEBUG N.Network [Thread-1] Poslouchám
+2019-05-27 16:23:09,164 DEBUG S.Communication [main] Vygenerovaný AES: LGnFSaSucLMzmv/Y9x5gKg==
+2019-05-27 16:23:09,166 DEBUG N.Network [Thread-1] Poslouchám
+2019-05-27 16:23:09,376 DEBUG U.UI [main] Start UI.
+2019-05-27 16:23:22,175 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 16:23:22,177 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 16:23:22,178 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 16:23:22,182 DEBUG N.Network [Thread-1] Spuštěn thread pro clienta.
+2019-05-27 16:23:22,183 DEBUG N.Network [Thread-1] Client prijat
+2019-05-27 16:23:22,192 DEBUG N.C.RunningClient [Thread-2] Spojení s clientem běží
+2019-05-27 16:23:22,201 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: QPFRvRu+N/K1yGtEqbUnAyeKJP02vwUTKrl52sB4umYDkKTiyYueNhva7F1r32wUr0z9aWg9VbfeCDMm4c0ApO0xv3JZi4TMnnW+MxV078oeS1NotOD00NgMSfOhuwfyQbb7BYcWzgWJ2TFLvVW25HAqE+lbJnfUfyY8RcIpzz9MvDDxYSoqz6eUBD/QQuyTVB8xYT82jPUet4aN+yOjZBxVlsKBIsKQ0DFoVCRHYlfg7TsPdHqZbWZZ/g+DnAFgfxxJjsXzclIUfO5H7QUjZVhpYtgLSXbsFAw5Qaci54bkE0Ggu168KyzDOSdGEUCGvZXx9VHtaQt0Pl1fkQJIgA==
+2019-05-27 16:23:22,248 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 16:23:22,248 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: LGnFSaSucLMzmv/Y9x5gKg==
+2019-05-27 16:23:22,249 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 16:23:22,250 DEBUG N.C.CommandStartEncryption [Thread-2] Komunikce začne být šifrována
+2019-05-27 16:23:23,232 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-05-27 16:23:23,232 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-05-27 16:23:23,234 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-05-27 16:23:23,234 DEBUG N.Network [Thread-1] Spuštěn thread pro clienta.
+2019-05-27 16:23:23,235 DEBUG N.Network [Thread-1] Client prijat
+2019-05-27 16:23:23,235 DEBUG N.C.RunningClient [Thread-3] Spojení s clientem běží
+2019-05-27 16:23:23,237 DEBUG N.R.CommandSetCommunication [Thread-1] Přijak encryptovaný AES klíč: egj8ZdiwOKdvVyYdRj4HwuLqWzOFCerfpWMxvggzXrO8J5k0wyhWM6AS2iDl9vA5Do12hQGrRT1fWeLY6YHVUPHOa8r/+OSspo64hc5flkztBFcu9SCONfKqNtuNd7LIz88erW0pQjifPG6wWSVa6YZeoATtjUVg798iu+s/eB9u7DaNJ630L9c+Pi26i30q7JTEmlc133mpx7WYBHLSFivr/2091c9yPgZcZdLoxWSnvm3bvBSfO3WSxolFQ8Bck2PIS0G6cMDuaA7j6zwiltD8Q4MYaKrFz0+9y6TZLo2Bo7EWhFQhphBTlOd/Ys28JWqE1GWcCrtDhloKgorSaQ==
+2019-05-27 16:23:23,260 DEBUG S.Communication [Thread-1] Decryptovaný AES klíč: LGnFSaSucLMzmv/Y9x5gKg==
+2019-05-27 16:23:23,260 DEBUG N.S.CommandStartEncryption [Thread-0] Start šifrování ....
+2019-05-27 16:23:23,261 DEBUG N.S.Send [Thread-0] Odeslána zpráva: STARTENCRYPT/1;
+2019-05-27 16:23:23,261 DEBUG N.C.CommandStartEncryption [Thread-3] Komunikce začne být šifrována
+2019-05-27 16:23:31,292 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-05-27 16:23:31,295 DEBUG N.S.Send [Thread-0] Odeslána zpráva: qxNXWlt4OF2l4usAGrCGJA==
+2019-05-27 16:23:31,363 DEBUG N.C.CommandLogin [Thread-2] Úspěšně přihlášen client: aa
+2019-05-27 16:23:31,365 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 16:23:31,395 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-05-27 16:23:34,643 DEBUG N.S.CommandLogin [Thread-0] Snaha se přihlásit na server uživatelem: sss
+2019-05-27 16:23:34,647 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 9djH21yBjt3l9glImq6b0w==
+2019-05-27 16:23:34,679 DEBUG N.C.CommandLogin [Thread-3] Úspěšně přihlášen client: sss
+2019-05-27 16:23:34,681 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-05-27 16:23:34,710 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: sss
+2019-05-27 16:23:46,929 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaa
+2019-05-27 16:23:46,929 DEBUG N.S.Send [Thread-0] Odeslána zpráva: VRwqTVR9M7chhUF0MgQ/zoF4Lx71986zXeecEz3tlyo=
+2019-05-27 16:23:46,930 DEBUG N.C.CommandMessage [Thread-2] Prijata zprava z chatu a rezeslána všem
+2019-05-27 16:23:46,934 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aaa
+2019-05-27 16:23:46,934 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aaa
+2019-05-27 16:23:49,059 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ssss
+2019-05-27 16:23:49,060 DEBUG N.S.Send [Thread-0] Odeslána zpráva: s0oWMzDOHVCMK4jYafwHBLD8e3oHUeR0nZnonPVd6U4=
+2019-05-27 16:23:49,060 DEBUG N.C.CommandMessage [Thread-3] Prijata zprava z chatu a rezeslána všem
+2019-05-27 16:23:49,062 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-05-27 16:23:49,062 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-05-27 16:24:03,158 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 0EvHEKNDKYbAMsljj+dRiOxpaqeHMR9oNWvUQ+2VOIY=
+2019-05-27 16:24:03,191 DEBUG N.C.CommandStartSearching [Thread-2] Přidání clienta do front na hru: aa
+2019-05-27 16:24:03,666 DEBUG N.S.Send [Thread-0] Odeslána zpráva: c/u8TSrw8gLoib3eIUKkJbadX90OmdhpwP4db9gpfcA=
+2019-05-27 16:24:03,700 DEBUG N.C.CommandStartSearching [Thread-3] Přidání clienta do front na hru: sss
+2019-05-27 16:24:03,700 DEBUG N.M.Matchmaking$1 [Thread-0] Spuštěna hra kde hrají: aaxsss
+2019-05-27 16:24:03,704 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 16:24:03,704 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-05-27 16:24:03,705 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 16:24:03,705 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-05-27 16:24:03,739 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: sss elo:100
+2019-05-27 16:24:03,746 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:100
+2019-05-27 16:24:05,761 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:05,771 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3N16/aQ12D5Ni5Md0CkE7NLkpcVxTInmMCrRLipQCN770YMb9D0UhIhg/amK+ZWUjNQISluVHeWAWg0RmEDatT/VPLlQJ/zFfAty6xDLLfHwd28zkkPV7t2EjpFGwu5Biu4Km+kDnrz1ExOqJkdWeoSPH0xb5FXjAEfwLXTImPKjgytwV4Ar98T/8WtxHYa4ikvzyj+J2AaMmj5KuWpdygc27R4lprYp5tyMhHsAbgOh1LLHb/UWv2aP7mX3wCObvdYgLUW6GAafYSzEeLhqf/DKrd5gayYs9FLPKr+RZuXRap2IyXPtmVY/ltbwoAnt
+2019-05-27 16:24:05,775 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:05,776 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:06,675 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:06,676 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3N16/aQ12D5Ni5Md0CkE7GyStmkqReWPC+j96kRJ8gtuyYMOo8J/3RUlJe6MXrPjUWootYADe0vAiGKCEp1wCMnTwEgKzBNVCdRS453f5a/esPs+gTYNq91h/yUROglkhXqgtxsrN8yDONB3CBLwSmo5wMyLKOVvtnwHpNK0SOr7G/i9ttzHSyWT7eCczSqKAym2L05En1hK9tHpjdQwORw2PiowEVCedSg9HPLu8qjHmq3tgq3T8dXIubOMTvd23vy7q90MJOJ8mGzvQhc8z5ksn/lkF9xL3DSurlg6aJlZSGFxU689wl9WBWbOR/Jp
+2019-05-27 16:24:06,676 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:06,677 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:07,526 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:07,527 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u2LVBD7Id4Kjm2VT/SGf8ZlygTuO4CQonH5L22BsBg5GTXTyP4Ct9Yl4bzR82VNSzmvYhPZFuhaTDq4oNiGO5pNbNuviLMEkIcK/SPPuERy0Up9bAIN9aX/6PLnqT0zJY0Fp2VqAK7nEKD1+DhEGjPJS3ZdRiqVGxnGMASYYZWDEIhCHhlCpAgcURK3jxJWNv7Rap2IyXPtmVY/ltbwoAnt
+2019-05-27 16:24:07,528 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:07,528 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 16:24:08,352 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:08,363 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjgidQ4tJ9NycmUiLuYpEwf8njNQISluVHeWAWg0RmEDatT/VPLlQJ/zFfAty6xDLLfHwd28zkkPV7t2EjpFGwu5Biu4Km+kDnrz1ExOqJkdWeoSPH0xb5FXjAEfwLXTImPKjgytwV4Ar98T/8WtxHYa4ikvzyj+J2AaMmj5KuWpdygc27R4lprYp5tyMhHsAbgOh1LLHb/UWv2aP7mX3wCObvdYgLUW6GAafYSzEeLhqf/b+3IgTQ3WyyGTLylC7yxlZSGFxU689wl9WBWbOR/Jp
+2019-05-27 16:24:08,364 DEBUG N.C.CommandField [Thread-3] Přijato a odesláno pro: aa
+2019-05-27 16:24:08,365 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:08,910 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:08,911 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjggnExfQaS9ZIUowKeuTs8VXIxCTZKG1DtsHECpZj4MudsnTwEgKzBNVCdRS453f5a/esPs+gTYNq91h/yUROglkhXqgtxsrN8yDONB3CBLwSmo5wMyLKOVvtnwHpNK0SOr7G/i9ttzHSyWT7eCczSqKAym2L05En1hK9tHpjdQwORw2PiowEVCedSg9HPLu8qjHmq3tgq3T8dXIubOMTvd23vy7q90MJOJ8mGzvQhc8zzwTOUzNJasotvCSFHC//KiBeC8e9ffOs13nnBM97Zcq
+2019-05-27 16:24:08,912 DEBUG N.C.CommandField [Thread-3] Přijato a odesláno pro: aa
+2019-05-27 16:24:08,912 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:09,613 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:09,614 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u2LVBD7Id4Kjm2VT/SGf8ZlygTuO4CQonH5L22BsBg5GTXTyP4Ct9Yl4bzR82VNSzmvYhPZFuhaTDq4oNiGO5pNbNuviLMEkIcK/SPPuERy0Up9bAIN9aX/6PLnqT0zJY0Fp2VqAK7nEKD1+DhEGjPJS3ZdRiqVGxnGMASYYZWDEL8H8zoPTpZnOe8x6+lw775ZSGFxU689wl9WBWbOR/Jp
+2019-05-27 16:24:09,615 DEBUG N.C.CommandField [Thread-3] Přijato a odesláno pro: aa
+2019-05-27 16:24:09,615 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 16:24:10,544 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:10,545 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u2LVBD7Id4Kjm2VT/SGf8Zls4rturb52i1di6i/EmD2IoSPH0xb5FXjAEfwLXTImPKjgytwV4Ar98T/8WtxHYa4ikvzyj+J2AaMmj5KuWpdygc27R4lprYp5tyMhHsAbgOh1LLHb/UWv2aP7mX3wCObvdYgLUW6GAafYSzEeLhqf/DKrd5gayYs9FLPKr+RZuXRap2IyXPtmVY/ltbwoAnt
+2019-05-27 16:24:10,546 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:10,546 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:11,174 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:11,175 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u0uWRDq6FaFSjIvZqc21irueuL3XSF9cWswLclepF+F9mo5wMyLKOVvtnwHpNK0SOr7G/i9ttzHSyWT7eCczSqKAym2L05En1hK9tHpjdQwORw2PiowEVCedSg9HPLu8qjHmq3tgq3T8dXIubOMTvd23vy7q90MJOJ8mGzvQhc8z5ksn/lkF9xL3DSurlg6aJlZSGFxU689wl9WBWbOR/Jp
+2019-05-27 16:24:11,176 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:11,177 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:12,209 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:12,209 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u2LVBD7Id4Kjm2VT/SGf8ZlygTuO4CQonH5L22BsBg5GTXTyP4Ct9Yl4bzR82VNSzmvYhPZFuhaTDq4oNiGO5pNbNuviLMEkIcK/SPPuERy0Up9bAIN9aX/6PLnqT0zJY0Fp2VqAK7nEKD1+DhEGjPJS3ZdRiqVGxnGMASYYZWDEIhCHhlCpAgcURK3jxJWNv7Rap2IyXPtmVY/ltbwoAnt
+2019-05-27 16:24:12,210 DEBUG N.C.CommandField [Thread-2] Přijato a odesláno pro: sss
+2019-05-27 16:24:12,211 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-05-27 16:24:13,090 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:13,091 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjghchX61vQ5zw3rxpE7Qc3W1sgkQdK1AhbliBdxgnChNFxsagDblKXxJpxDY4rh66u0uWRDq6FaFSjIvZqc21iruiu4Km+kDnrz1ExOqJkdWeoSPH0xb5FXjAEfwLXTImPKjgytwV4Ar98T/8WtxHYa4ikvzyj+J2AaMmj5KuWpdygc27R4lprYp5tyMhHsAbgOh1LLHb/UWv2aP7mX3wCObvdYgLUW6GAafYSzEeLhqf/b+3IgTQ3WyyGTLylC7yxlZSGFxU689wl9WBWbOR/Jp
+2019-05-27 16:24:13,092 DEBUG N.C.CommandField [Thread-3] Přijato a odesláno pro: aa
+2019-05-27 16:24:13,092 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:13,423 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:13,424 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjgg7+lPNibQF2gju5852ypCQS8TRZ8Y0yN25KWjuOw1Qzj/VPLlQJ/zFfAty6xDLLfGckaGgzJHmf6FHn72+fXsfhXqgtxsrN8yDONB3CBLwSmo5wMyLKOVvtnwHpNK0SOr7G/i9ttzHSyWT7eCczSqKAym2L05En1hK9tHpjdQwORw2PiowEVCedSg9HPLu8qjHmq3tgq3T8dXIubOMTvd23vy7q90MJOJ8mGzvQhc8zzwTOUzNJasotvCSFHC//KiBeC8e9ffOs13nnBM97Zcq
+2019-05-27 16:24:13,424 DEBUG N.C.CommandField [Thread-3] Přijato a odesláno pro: aa
+2019-05-27 16:24:13,425 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-05-27 16:24:14,516 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-05-27 16:24:14,517 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mJ1uOm6VeNbPXMJOSfvu7g==
+2019-05-27 16:24:14,517 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-05-27 16:24:14,518 DEBUG N.S.Send [Thread-0] Odeslána zpráva: mJ1uOm6VeNbPXMJOSfvu7g==
+2019-05-27 16:24:14,544 DEBUG N.C.CommandEndGame [Thread-3] Úspěšně ukončena hra pro :sss
+2019-05-27 16:24:14,545 DEBUG N.C.CommandEndGame [Thread-3] Úspěšně ukončena hra pro :aa
+2019-05-27 16:24:14,545 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 101
+2019-05-27 16:24:14,545 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 99
+2019-05-27 16:24:14,582 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:14,583 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjgg7+lPNibQF2gju5852ypCQS8TRZ8Y0yN25KWjuOw1Qzj/VPLlQJ/zFfAty6xDLLfGckaGgzJHmf6FHn72+fXsfhXqgtxsrN8yDONB3CBLwSmo5wMyLKOVvtnwHpNK0SOr7G/i9ttzHSyWT7eCczSqKAym2L05En1hK9tHpjdQwORw2PiowEVCedSg9HPLu8qjHmq3tgq3T8dXIubOMTvd23vy7q90MJOJ8mGzvQhc8z9EsqpCkrqkO77Tb4BV3E3SBeC8e9ffOs13nnBM97Zcq
+2019-05-27 16:24:14,584 DEBUG N.C.CommandField [Thread-2] Nenalezen hrající hráč s tímto jménem: sss
+2019-05-27 16:24:14,586 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-05-27 16:24:14,587 DEBUG N.S.Send [Thread-0] Odeslána zpráva: 3MwfIWOd2T433mzhjaWyqxkOapBUHLHqvEkaFSfqjgg7+lPNibQF2gju5852ypCQzWL359XU71x4uhtlgziFFBsagDblKXxJpxDY4rh66u1PR5DWuQgm5QS74xCF2m54ygTuO4CQonH5L22BsBg5GTXTyP4Ct9Yl4bzR82VNSzmvYhPZFuhaTDq4oNiGO5pNbNuviLMEkIcK/SPPuERy0Up9bAIN9aX/6PLnqT0zJY0Fp2VqAK7nEKD1+DhEGjPJS3ZdRiqVGxnGMASYYZWDEEsNdYEYccrUfC/PNK5/WBAy3nbQFqUQ+3hCxa9MUMEH
+2019-05-27 16:24:14,588 DEBUG N.C.CommandField [Thread-3] Nenalezen hrající hráč s tímto jménem: aa
+2019-05-27 16:24:18,253 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: sss
+2019-05-27 16:24:18,254 DEBUG N.S.Send [Thread-0] Odeslána zpráva: tpxbkroCtqfyTMP3FzKX6YF4Lx71986zXeecEz3tlyo=
+2019-05-27 16:24:18,254 DEBUG N.C.CommandMessage [Thread-2] Prijata zprava z chatu a rezeslána všem
+2019-05-27 16:24:18,255 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: sss
+2019-05-27 16:24:18,255 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: sss
+2019-05-27 16:24:19,816 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ssss
+2019-05-27 16:24:19,816 DEBUG N.S.Send [Thread-0] Odeslána zpráva: s0oWMzDOHVCMK4jYafwHBLD8e3oHUeR0nZnonPVd6U4=
+2019-05-27 16:24:19,817 DEBUG N.C.CommandMessage [Thread-3] Prijata zprava z chatu a rezeslána všem
+2019-05-27 16:24:19,818 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-05-27 16:24:19,818 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
+2019-05-27 16:24:29,119 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: 
+2019-05-27 16:24:29,119 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: 
