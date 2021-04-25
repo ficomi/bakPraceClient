@@ -6,7 +6,7 @@
 package Network.Recive;
 
 import Logic.Game;
-import Security.Communication;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -43,7 +43,7 @@ public class CommandSetCommunication implements IReciveCommands {
             key = key.substring(1,key.length());
             logger.debug("Přijak encryptovaný AES klíč: "+key);
 
-            Communication.decryptAsymKey(Base64.getDecoder().decode(key));
+            Cipher.decryptAsymKey(Base64.getDecoder().decode(key));
 
         } catch (Exception e) {
             logger.error("Chyba :" + e);

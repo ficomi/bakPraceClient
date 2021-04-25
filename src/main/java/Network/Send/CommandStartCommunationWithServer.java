@@ -6,7 +6,6 @@
 package Network.Send;
 
 import Logic.Game;
-import Security.Communication;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

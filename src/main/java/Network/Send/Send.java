@@ -14,7 +14,7 @@ package Network.Send;
 import Logic.Game;
 import Network.Network;
 import Network.NetworkThreadName;
-import Security.Communication;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -51,7 +51,7 @@ public class Send implements Runnable {
 
             socket = new Socket(ADRESS, PORT);
             writer = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
-            writer.println("STARTCOM/" + Base64.getEncoder().encodeToString(Communication.getPublicKey().getEncoded()) + ";");
+            writer.println("STARTCOM/" + Base64.getEncoder().encodeToString(Cipher.getPublicKey().getEncoded()) + ";");
             writer.flush();
             //prvni komuinikace se serverem
         } catch (IOException e) {
@@ -89,8 +89,8 @@ public class Send implements Runnable {
         } catch (InterruptedException e) {
             try {
                 String message = "";
-                if (Communication.isEncrypted) {
-                    message = Communication.stringEncrypt(mapOfCommands.getCommandClass(CommandMapSend.getRequiredCommand()).doCommand());
+                if (Cipher.isEncrypted) {
+                    message = Cipher.encrypt(mapOfCommands.getCommandClass(CommandMapSend.getRequiredCommand()).doCommand());
                 } else {
                     message = mapOfCommands.getCommandClass(CommandMapSend.getRequiredCommand()).doCommand();
                 }

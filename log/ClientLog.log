@@ -1,371 +1,371 @@
 2019-04-19 22:19:24,152 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
 2019-04-19 22:19:34,875 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-19 22:19:34,876 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-19 22:19:34,883 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-19 22:19:43,384 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: yyy
+2019-04-19 22:19:34,883 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-19 22:19:43,384 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: yyy
 2019-04-19 22:20:00,474 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:alojs
 2019-04-19 22:25:10,413 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-19 22:25:10,414 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-19 22:25:10,420 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-19 22:25:20,051 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aaa
+2019-04-19 22:25:10,420 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-19 22:25:20,051 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aaa
 2019-04-19 22:26:40,415 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-19 22:26:40,416 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-19 22:26:40,422 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-19 22:26:51,561 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aaaa
-2019-04-19 22:26:51,566 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-19 22:26:40,422 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-19 22:26:51,561 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aaaa
+2019-04-19 22:26:51,566 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-19 22:27:04,898 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-19 22:27:14,748 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-19 22:27:14,748 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 05:10:19,342 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 05:10:19,343 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 05:10:19,353 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 05:10:26,826 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: ddd
-2019-04-20 05:10:26,832 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 05:10:19,353 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 05:10:26,826 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: ddd
+2019-04-20 05:10:26,832 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 05:10:39,203 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-20 05:10:39,286 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 05:10:49,693 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aaa
-2019-04-20 05:10:49,694 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 05:11:34,935 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 05:10:39,286 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 05:10:49,693 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aaa
+2019-04-20 05:10:49,694 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 05:11:34,935 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 05:14:44,547 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 05:14:44,548 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 05:14:44,554 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 05:14:44,554 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 05:14:52,302 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
-2019-04-20 05:14:52,419 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 05:15:21,778 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 05:16:25,377 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 05:14:52,419 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 05:15:21,778 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 05:16:25,377 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 05:20:25,759 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 05:20:25,760 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 05:20:25,765 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 05:20:36,101 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 05:20:36,194 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 05:20:25,765 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 05:20:36,101 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 05:20:36,194 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 05:21:02,272 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:ddd
-2019-04-20 05:21:02,322 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 05:21:10,959 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: ddd
-2019-04-20 05:21:11,005 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 05:21:02,322 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 05:21:10,959 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: ddd
+2019-04-20 05:21:11,005 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 05:37:25,743 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 05:37:25,744 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 05:37:25,750 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 05:37:25,750 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 05:37:40,132 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:eee
-2019-04-20 05:37:40,263 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
+2019-04-20 05:37:40,263 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
 2019-04-20 06:32:33,127 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 06:32:33,127 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 06:32:33,134 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 06:32:33,134 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 06:32:45,405 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-20 06:33:16,097 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 06:33:16,097 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 06:40:48,330 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 06:40:48,331 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 06:40:48,336 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 06:40:48,336 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 06:41:03,892 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
-2019-04-20 06:41:04,020 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 06:41:27,017 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 06:41:27,064 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 06:41:50,992 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 06:41:04,020 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 06:41:27,017 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 06:41:27,064 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 06:41:50,992 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 06:45:46,575 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 06:45:46,577 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 06:45:46,584 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 06:45:46,584 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 06:45:54,523 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-20 06:45:54,745 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
+2019-04-20 06:45:54,745 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
 2019-04-20 07:11:05,481 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 07:11:05,482 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 07:11:05,489 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 07:11:05,489 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 07:11:16,883 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:qqq
-2019-04-20 07:11:17,111 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
+2019-04-20 07:11:17,111 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
 2019-04-20 18:01:15,109 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 18:01:15,110 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 18:01:15,119 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 18:01:15,119 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 18:01:27,821 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
 2019-04-20 18:10:43,394 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 18:10:43,396 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 18:10:43,401 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 18:10:43,401 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 18:10:52,911 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-20 18:11:15,517 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 18:11:15,517 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 18:13:02,033 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 18:13:02,035 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 18:13:02,041 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 18:13:02,041 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 18:13:13,111 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaa
-2019-04-20 18:14:52,627 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 18:14:52,627 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 18:58:42,303 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 18:58:42,304 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 18:58:42,312 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 18:58:42,312 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 18:58:55,389 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:qqq
-2019-04-20 18:58:55,500 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 18:59:06,758 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: qqq
-2019-04-20 18:59:06,768 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 18:58:55,500 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 18:59:06,758 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: qqq
+2019-04-20 18:59:06,768 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 19:06:49,863 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:06:49,864 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:06:49,870 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:07:02,601 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: qqq
-2019-04-20 19:07:02,639 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 19:07:28,484 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:06:49,870 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:07:02,601 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: qqq
+2019-04-20 19:07:02,639 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 19:07:28,484 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:07:58,682 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:07:58,683 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:07:58,688 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:08:05,748 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: qqq
-2019-04-20 19:08:05,785 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 19:08:11,876 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:07:58,688 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:08:05,748 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: qqq
+2019-04-20 19:08:05,785 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 19:08:11,876 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:09:47,743 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:09:47,745 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:09:47,751 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 19:09:47,751 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 19:09:56,931 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aa
-2019-04-20 19:09:57,044 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
+2019-04-20 19:09:57,044 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
 2019-04-20 19:14:16,956 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:14:16,958 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:14:16,965 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 19:14:16,965 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 19:14:38,237 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:14:38,239 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:14:38,245 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:15:03,841 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:14:38,245 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:15:03,841 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:15:12,488 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:15:12,490 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:15:12,496 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:15:19,696 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 19:15:19,732 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 19:15:12,496 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:15:19,696 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 19:15:19,732 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 19:15:32,476 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
-2019-04-20 19:15:32,541 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 19:15:44,960 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 19:15:44,969 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 19:15:32,541 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 19:15:44,960 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 19:15:44,969 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 19:24:30,098 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:24:30,100 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:24:30,108 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 19:24:30,108 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 19:24:41,587 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aaaaa
-2019-04-20 19:24:41,701 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 19:24:52,800 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aaaaa
-2019-04-20 19:24:52,809 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 19:25:15,835 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:24:41,701 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 19:24:52,800 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aaaaa
+2019-04-20 19:24:52,809 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 19:25:15,835 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:28:13,230 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:28:13,232 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:28:13,238 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:28:18,411 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 19:28:18,466 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 19:28:45,887 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:28:13,238 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:28:18,411 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 19:28:18,466 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 19:28:45,887 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:28:55,514 DEBUG N.Network [main] Startuji network Thread: RECIVER
 2019-04-20 19:28:55,516 DEBUG N.Network [main] Startuji network Thread: SENDER
-2019-04-20 19:28:55,516 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:29:00,469 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 19:29:00,508 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-04-20 19:28:55,516 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:29:00,469 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 19:29:00,508 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
 2019-04-20 19:30:01,790 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:30:01,792 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:30:01,799 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 19:30:05,646 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 19:30:05,681 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 19:31:59,492 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-04-20 19:30:01,799 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 19:30:05,646 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 19:30:05,681 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 19:31:59,492 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-04-20 19:39:23,031 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:39:23,032 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:39:23,039 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 19:39:23,039 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 19:39:27,898 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:aa
-2019-04-20 19:39:28,089 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 19:39:31,658 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 19:39:31,697 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-20 19:39:31,727 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: aa
+2019-04-20 19:39:28,089 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 19:39:31,658 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 19:39:31,697 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-20 19:39:31,727 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: aa
 2019-04-20 19:40:42,689 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 19:40:42,691 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 19:40:42,697 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-20 19:40:42,697 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-20 19:40:49,269 DEBUG N.S.CommandAddUser [Thread-0] Snaha o registraci klienta:sss
-2019-04-20 19:40:49,410 DEBUG N.R.CommandRegistration [Thread-1] Úsp?šná registrace
-2019-04-20 19:40:52,843 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 19:40:52,879 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-20 19:40:52,902 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: sss
-2019-04-20 19:40:57,096 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaaa
+2019-04-20 19:40:49,410 DEBUG N.R.CommandRegistration [Thread-1] ï¿½sp?ï¿½nï¿½ registrace
+2019-04-20 19:40:52,843 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 19:40:52,879 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-20 19:40:52,902 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: sss
+2019-04-20 19:40:57,096 DEBUG N.S.CommandSendMsg [Thread-0] Odeslï¿½na zprï¿½va: aaaa
 2019-04-20 19:40:57,101 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
 2019-04-20 19:40:57,101 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
-2019-04-20 19:40:59,315 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ssss
+2019-04-20 19:40:59,315 DEBUG N.S.CommandSendMsg [Thread-0] Odeslï¿½na zprï¿½va: ssss
 2019-04-20 19:40:59,317 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
 2019-04-20 19:40:59,317 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
-2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
-2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
+2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
+2019-04-20 19:41:00,983 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
 2019-04-20 19:41:00,987 DEBUG L.Game [Thread-1] Hra se spustila.
 2019-04-20 19:41:00,988 DEBUG L.Game [Thread-1] Hra se spustila.
-2019-04-20 19:41:01,017 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: aa elo:0
-2019-04-20 19:41:01,023 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: sss elo:0
-2019-04-20 19:41:02,948 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 19:41:04,042 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 19:41:05,101 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-04-20 19:41:01,017 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: aa elo:0
+2019-04-20 19:41:01,023 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: sss elo:0
+2019-04-20 19:41:02,948 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 19:41:04,042 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 19:41:05,101 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
 2019-04-20 20:09:06,843 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 20:09:06,844 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 20:09:06,852 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 20:09:09,266 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-20 20:09:09,337 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-20 20:09:09,373 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: aa
+2019-04-20 20:09:06,852 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 20:09:09,266 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-20 20:09:09,337 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-20 20:09:09,373 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: aa
 2019-04-20 20:09:13,413 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-20 20:09:13,415 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-20 20:09:13,422 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-20 20:09:16,146 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: ss
-2019-04-20 20:09:16,155 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-20 20:09:18,847 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-20 20:09:18,904 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-20 20:09:18,931 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: sss
-2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
-2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
+2019-04-20 20:09:13,422 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-20 20:09:16,146 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: ss
+2019-04-20 20:09:16,155 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-20 20:09:18,847 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-20 20:09:18,904 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-20 20:09:18,931 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: sss
+2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
+2019-04-20 20:09:23,907 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
 2019-04-20 20:09:23,908 DEBUG L.Game [Thread-1] Hra se spustila.
 2019-04-20 20:09:23,908 DEBUG L.Game [Thread-1] Hra se spustila.
-2019-04-20 20:09:23,932 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: aa elo:0
-2019-04-20 20:09:23,945 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: sss elo:0
-2019-04-20 20:09:26,156 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:26,169 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-20 20:09:27,278 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:27,279 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-20 20:09:28,649 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:28,650 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-20 20:09:30,004 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:30,015 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-20 20:09:30,987 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:30,988 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
-2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
-2019-04-20 20:09:31,847 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 101
-2019-04-20 20:09:31,848 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 99
-2019-04-20 20:09:31,877 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-20 20:09:31,879 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-04-20 20:09:23,932 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: aa elo:0
+2019-04-20 20:09:23,945 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: sss elo:0
+2019-04-20 20:09:26,156 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:26,169 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-20 20:09:27,278 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:27,279 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-20 20:09:28,649 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:28,650 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-20 20:09:30,004 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:30,015 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-20 20:09:30,987 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:30,988 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odesï¿½lï¿½nï¿½ konce hry serveru.
+2019-04-20 20:09:31,846 DEBUG N.S.CommandEndGame [Thread-0] Odesï¿½lï¿½nï¿½ konce hry serveru.
+2019-04-20 20:09:31,847 DEBUG N.R.CommandUpdate [Thread-1] Update klientskï¿½ch informacï¿½ od serveru. Novï¿½ elo: 101
+2019-04-20 20:09:31,848 DEBUG N.R.CommandUpdate [Thread-1] Update klientskï¿½ch informacï¿½ od serveru. Novï¿½ elo: 99
+2019-04-20 20:09:31,877 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-20 20:09:31,879 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
 2019-04-20 21:10:50,554 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
 2019-04-21 00:28:11,190 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-21 00:28:11,192 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-21 00:28:11,201 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-21 00:28:11,201 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-21 00:28:13,224 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-21 00:28:13,225 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-21 00:28:13,231 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-21 00:28:16,673 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-21 00:28:16,758 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-21 00:28:16,792 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: aa
-2019-04-21 00:28:20,865 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: ss
-2019-04-21 00:28:20,873 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-21 00:28:23,980 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: qq
-2019-04-21 00:28:23,985 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
-2019-04-21 00:28:30,751 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-21 00:28:30,794 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-21 00:28:30,819 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: sss
-2019-04-21 00:28:33,390 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaaa
+2019-04-21 00:28:13,231 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-21 00:28:16,673 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-21 00:28:16,758 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-21 00:28:16,792 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: aa
+2019-04-21 00:28:20,865 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: ss
+2019-04-21 00:28:20,873 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-21 00:28:23,980 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: qq
+2019-04-21 00:28:23,985 DEBUG N.R.CommandLogin [Thread-1] Server odmï¿½tnul login.
+2019-04-21 00:28:30,751 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-21 00:28:30,794 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-21 00:28:30,819 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: sss
+2019-04-21 00:28:33,390 DEBUG N.S.CommandSendMsg [Thread-0] Odeslï¿½na zprï¿½va: aaaa
 2019-04-21 00:28:33,396 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
 2019-04-21 00:28:33,396 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: aaaa
-2019-04-21 00:28:36,308 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ssss
+2019-04-21 00:28:36,308 DEBUG N.S.CommandSendMsg [Thread-0] Odeslï¿½na zprï¿½va: ssss
 2019-04-21 00:28:36,309 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
 2019-04-21 00:28:36,310 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: sss: ssss
-2019-04-21 00:28:39,917 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
-2019-04-21 00:28:39,918 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
+2019-04-21 00:28:39,917 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
+2019-04-21 00:28:39,918 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
 2019-04-21 00:28:39,919 DEBUG L.Game [Thread-1] Hra se spustila.
 2019-04-21 00:28:39,919 DEBUG L.Game [Thread-1] Hra se spustila.
-2019-04-21 00:28:39,948 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: aa elo:0
-2019-04-21 00:28:39,957 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: sss elo:0
-2019-04-21 00:29:05,842 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:05,856 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:06,482 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:06,483 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:08,022 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:08,023 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:29:09,527 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:09,538 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:10,002 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:10,003 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:10,860 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:10,862 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:29:11,871 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:11,872 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:13,064 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:13,065 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:29:14,504 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
-2019-04-21 00:29:53,942 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:29:54,359 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-04-21 00:28:39,948 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: aa elo:0
+2019-04-21 00:28:39,957 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: sss elo:0
+2019-04-21 00:29:05,842 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:05,856 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:06,482 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:06,483 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:08,022 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:08,023 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:29:09,527 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:09,538 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:10,002 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:10,003 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:10,860 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:10,862 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:29:11,871 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:11,872 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:13,064 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:13,065 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:29:14,504 DEBUG N.S.CommandEndGame [Thread-0] Odesï¿½lï¿½nï¿½ konce hry serveru.
+2019-04-21 00:29:53,942 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:29:54,359 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
 2019-04-21 00:30:07,935 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
 2019-04-21 00:30:09,760 ERROR N.S.Send [main] Nepoda?ilo se p?ipojit k serveru od SENDER: java.net.ConnectException: Connection refused: connect
 2019-04-21 00:30:18,149 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-21 00:30:18,151 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-21 00:30:18,157 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-04-21 00:30:18,157 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-04-21 00:30:21,193 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-04-21 00:30:21,194 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-04-21 00:30:21,200 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-04-21 00:30:25,576 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: sss
-2019-04-21 00:30:25,661 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-21 00:30:25,692 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: sss
-2019-04-21 00:30:38,431 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlásit na server uživatelem: aa
-2019-04-21 00:30:38,483 DEBUG L.Game [Thread-1] Pridán lokální hrá?.
-2019-04-21 00:30:38,512 DEBUG N.R.CommandLogin [Thread-1] Server p?íjmul login pro: aa
-2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
-2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Pridán druhý hrá?.
+2019-04-21 00:30:21,200 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-04-21 00:30:25,576 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: sss
+2019-04-21 00:30:25,661 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-21 00:30:25,692 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: sss
+2019-04-21 00:30:38,431 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se p?ihlï¿½sit na server uï¿½ivatelem: aa
+2019-04-21 00:30:38,483 DEBUG L.Game [Thread-1] Pridï¿½n lokï¿½lnï¿½ hrï¿½?.
+2019-04-21 00:30:38,512 DEBUG N.R.CommandLogin [Thread-1] Server p?ï¿½jmul login pro: aa
+2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
+2019-04-21 00:30:39,608 DEBUG L.Game [Thread-1] Pridï¿½n druhï¿½ hrï¿½?.
 2019-04-21 00:30:39,609 DEBUG L.Game [Thread-1] Hra se spustila.
 2019-04-21 00:30:39,609 DEBUG L.Game [Thread-1] Hra se spustila.
-2019-04-21 00:30:39,643 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: sss elo:0
-2019-04-21 00:30:39,653 DEBUG N.R.CommandStartGame [Thread-1] Hra spušt?na. Protihrá?: aa elo:0
-2019-04-21 00:30:41,469 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:41,482 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:42,878 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:42,879 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:43,475 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:43,476 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:30:44,332 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:44,341 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:44,817 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:44,818 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:45,358 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:45,359 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:30:46,118 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:46,119 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:47,366 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:47,367 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:48,688 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:48,689 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:30:49,376 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:49,377 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:50,984 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:50,985 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:51,685 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:51,686 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:30:52,597 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:52,598 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:53,239 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:53,240 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:53,803 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:53,804 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: true
-2019-04-21 00:30:54,719 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:54,720 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:55,247 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:55,248 DEBUG N.R.CommandReciveField [Thread-1] P?ijaté data o poli s kartami: false
-2019-04-21 00:30:56,180 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
-2019-04-21 00:30:56,210 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 101
-2019-04-21 00:30:56,211 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 99
-2019-04-21 00:30:56,238 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
-2019-04-21 00:30:56,239 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-04-21 00:30:39,643 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: sss elo:0
+2019-04-21 00:30:39,653 DEBUG N.R.CommandStartGame [Thread-1] Hra spuï¿½t?na. Protihrï¿½?: aa elo:0
+2019-04-21 00:30:41,469 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:41,482 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:42,878 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:42,879 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:43,475 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:43,476 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:30:44,332 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:44,341 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:44,817 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:44,818 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:45,358 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:45,359 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:30:46,118 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:46,119 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:47,366 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:47,367 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:48,688 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:48,689 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:30:49,376 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:49,377 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:50,984 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:50,985 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:51,685 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:51,686 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:30:52,597 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:52,598 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:53,239 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:53,240 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:53,803 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:53,804 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: true
+2019-04-21 00:30:54,719 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:54,720 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:55,247 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:55,248 DEBUG N.R.CommandReciveField [Thread-1] P?ijatï¿½ data o poli s kartami: false
+2019-04-21 00:30:56,180 DEBUG N.S.CommandEndGame [Thread-0] Odesï¿½lï¿½nï¿½ konce hry serveru.
+2019-04-21 00:30:56,210 DEBUG N.R.CommandUpdate [Thread-1] Update klientskï¿½ch informacï¿½ od serveru. Novï¿½ elo: 101
+2019-04-21 00:30:56,211 DEBUG N.R.CommandUpdate [Thread-1] Update klientskï¿½ch informacï¿½ od serveru. Novï¿½ elo: 99
+2019-04-21 00:30:56,238 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
+2019-04-21 00:30:56,239 DEBUG N.S.CommandSendField [Thread-0] Odeslï¿½no hernï¿½ pole
 2019-05-03 01:14:03,302 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:14:03,303 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:14:03,309 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:14:11,840 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu
-2019-05-03 01:14:21,671 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu
-2019-05-03 01:14:25,811 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:14:03,309 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:14:11,840 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu
+2019-05-03 01:14:21,671 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu
+2019-05-03 01:14:25,811 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-05-03 01:15:07,222 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:15:07,223 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:15:07,230 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:15:10,734 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.InterruptedException: sleep interrupted
+2019-05-03 01:15:07,230 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:15:10,734 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu java.lang.InterruptedException: sleep interrupted
 2019-05-03 01:15:35,542 DEBUG N.Network [main] Startuji network Thread: RECIVER
 2019-05-03 01:15:35,544 DEBUG N.Network [main] Startuji network Thread: SENDER
-2019-05-03 01:15:35,544 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:15:37,576 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
-2019-05-03 01:15:43,355 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:15:35,544 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:15:37,576 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu java.lang.NullPointerException
+2019-05-03 01:15:43,355 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-05-03 01:19:39,353 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:19:39,354 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:19:39,361 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:19:52,554 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
-2019-05-03 01:19:56,125 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:19:39,361 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:19:52,554 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu java.lang.NullPointerException
+2019-05-03 01:19:56,125 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-05-03 01:24:48,247 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:24:48,249 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:24:48,255 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:25:02,761 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
-2019-05-03 01:25:10,862 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprávu java.lang.NullPointerException
+2019-05-03 01:24:48,255 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:25:02,761 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu java.lang.NullPointerException
+2019-05-03 01:25:10,862 ERROR N.S.Send [Thread-0] Nepovedlo se odeslat zprï¿½vu java.lang.NullPointerException
 2019-05-03 01:26:54,798 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:26:54,800 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:26:54,809 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
-2019-05-03 01:27:34,565 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: java.net.SocketException: Connection reset
+2019-05-03 01:26:54,809 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
+2019-05-03 01:27:34,565 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
 2019-05-03 01:28:56,756 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 01:28:56,757 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 01:28:56,764 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-05-03 01:28:56,764 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-05-03 01:28:56,924 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
-2019-05-03 01:28:56,932 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-03 01:28:56,932 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
 2019-05-03 02:15:14,820 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 02:15:14,821 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 02:15:14,827 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-05-03 02:15:14,827 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-05-03 02:15:15,009 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
-2019-05-03 02:15:15,017 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-03 02:15:15,017 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
 2019-05-03 21:28:26,764 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-03 21:28:26,766 DEBUG N.Network [main] Startuji network Thread: RECIVER
-2019-05-03 21:28:26,772 DEBUG N.R.Recive [Thread-1] Všechny p?íkazy uloženy pro Recive.
+2019-05-03 21:28:26,772 DEBUG N.R.Recive [Thread-1] Vï¿½echny p?ï¿½kazy uloï¿½eny pro Recive.
 2019-05-03 21:28:26,908 ERROR N.R.CommandSetCommunication [Thread-1] Chyba :java.security.spec.InvalidKeySpecException: java.security.InvalidKeyException: IOException: Detect premature EOF
-2019-05-03 21:28:26,917 ERROR N.R.Recive [Thread-1] Nem?žu se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
+2019-05-03 21:28:26,917 ERROR N.R.Recive [Thread-1] Nem?ï¿½u se pripojit k serveru od Recive: javax.crypto.BadPaddingException: Decryption error
 2019-05-10 09:33:21,746 DEBUG N.Network [main] Startuji network Thread: SENDER
 2019-05-10 09:33:21,752 DEBUG N.Network [main] Startuji network Thread: RECIVER
 2019-05-10 09:33:21,765 DEBUG N.R.Recive [Thread-1] VÅ¡echny pÅ™Ã­kazy uloÅ¾eny pro Recive.
@@ -405,7 +405,7 @@ java.lang.IllegalArgumentException: Illegal base64 character 3b
 	at java.base/java.util.Base64$Decoder.decode0(Unknown Source) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Unknown Source) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Unknown Source) ~[?:?]
-	at Security.Communication.stringEncrypt(Communication.java:47) ~[classes/:?]
+	at Security.Cipher.stringEncrypt(Communication.java:47) ~[classes/:?]
 	at Network.Send.Send.run(Send.java:82) [classes/:?]
 	at Network.Send.Send.run(Send.java:88) [classes/:?]
 	at java.base/java.lang.Thread.run(Unknown Source) [?:?]
@@ -429,7 +429,7 @@ java.lang.IllegalArgumentException: Illegal base64 character 3b
 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
-	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Security.Cipher.stringEncrypt(Communication.java:55) ~[classes/:?]
 	at Network.Send.Send.run(Send.java:91) [classes/:?]
 	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
 2019-05-27 04:30:06,957 DEBUG N.Network [main] Startuji network Thread: SENDER
@@ -466,7 +466,7 @@ java.lang.IllegalArgumentException: Illegal base64 character 3b
 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
-	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Security.Cipher.stringEncrypt(Communication.java:55) ~[classes/:?]
 	at Network.Send.Send.run(Send.java:91) [classes/:?]
 	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
 2019-05-27 04:59:01,625 ERROR N.R.Recive [Thread-1] NemÅ¯Å¾u se pripojit k serveru od Recive: java.net.SocketException: Connection reset
@@ -481,7 +481,7 @@ java.lang.IllegalArgumentException: Illegal base64 character 3b
 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:743) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:535) ~[?:?]
 	at java.base/java.util.Base64$Decoder.decode(Base64.java:558) ~[?:?]
-	at Security.Communication.stringEncrypt(Communication.java:55) ~[classes/:?]
+	at Security.Cipher.stringEncrypt(Communication.java:55) ~[classes/:?]
 	at Network.Send.Send.run(Send.java:91) [classes/:?]
 	at java.base/java.lang.Thread.run(Thread.java:835) [?:?]
 2019-05-27 05:08:40,855 DEBUG N.Network [main] Startuji network Thread: SENDER

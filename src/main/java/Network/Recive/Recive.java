@@ -14,7 +14,7 @@ package Network.Recive;
 import Logic.Game;
 import Network.Network;
 import Network.NetworkThreadName;
-import Security.Communication;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -77,8 +77,8 @@ public class Recive implements Runnable {
             while (network.isConnected()) {
                 String message = reader.readLine();
                 System.out.println("PZ : " + message);
-                if (Communication.isEncrypted) {
-                    message = Communication.stringDecrypt(message);
+                if (Cipher.isEncrypted) {
+                    message = Cipher.decrypt(message);
                 }
 
 

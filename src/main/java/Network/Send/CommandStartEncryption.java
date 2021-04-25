@@ -11,8 +11,7 @@
 package Network.Send;
 
 import Logic.Game;
-import Network.Recive.StringCommandsRecive;
-import Security.Communication;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -64,7 +63,7 @@ public class CommandStartEncryption implements ISendCommands {
     public String doCommand()
     {
         logger.debug("Start šifrování ....");
-        Communication.isEncrypted=true;
+        Cipher.isEncrypted=true;
         return"STARTENCRYPT/1;";
     }
 

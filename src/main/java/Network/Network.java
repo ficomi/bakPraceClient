@@ -8,7 +8,7 @@ package Network;
 import Logic.Game;
 import Network.Recive.Recive;
 import Network.Send.Send;
-import Security.Communication;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -33,7 +33,7 @@ public class Network {
         this.game = game;
         try {
 
-            Communication.createKeys("RSA", "AES", 2048, 128,this);
+            Cipher.createKeys("RSA", "AES", 2048,this);
 
         } catch (Exception e) {
             e.printStackTrace();
