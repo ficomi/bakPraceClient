@@ -19,15 +19,15 @@ import java.util.Base64;
 /**
  * @author pix
  */
-public class CommandSetCommunication implements IReciveCommands {
+public class CommandDecryptAsymKey implements IReciveCommands {
 
-    private final String NAME = StringCommandsRecive.SETCOMMUNICATION.toString().toUpperCase();
+    private final String NAME = StringCommandsRecive.SYMKEY.toString().toUpperCase();
     private final Logger logger = LoggerFactory.getLogger(getClass());
     private final Game game;
     private final UI ui;
     private final Recive recive;
 
-    public CommandSetCommunication(Game game, UI ui, Recive recive) {
+    public CommandDecryptAsymKey(Game game, UI ui, Recive recive) {
         this.game = game;
         this.ui = ui;
         this.recive = recive;
@@ -37,17 +37,17 @@ public class CommandSetCommunication implements IReciveCommands {
     public void doCommand(String[] values) {
 
         try {
-
-            Cipher.createKeys(values[1],values[3],Integer.parseInt(values[2]),recive.getNetwork());
-
-            for (int i = 0;i<values.length;i++){
-                System.out.println(i+"   "+values[i]);
+            String key = "";
+            for (int i = 1; i < values.length; i++) {
+                key += "/" + values[i];
             }
+            key = key.substring(1,key.length());
+            Cipher.decryptAsymKey(Base64.getDecoder().decode(key));;
 
+            System.out.println("Přijat asym klíč: " + key);
 
-            CommandMapSend.setRequiredCommand(StringCommandsSend.PUBKEY);
+            CommandMapSend.setRequiredCommand(StringCommandsSend.STARTENCRYPT);
             recive.getNetwork().getNetworkThread(NetworkThreadName.SENDER).interrupt();
-            logger.debug("Přijat veřejný klíč serveru");
 
         } catch (Exception e) {
             logger.error("Chyba :" + e);

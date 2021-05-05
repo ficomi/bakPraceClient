@@ -51,9 +51,10 @@ public class Send implements Runnable {
 
             socket = new Socket(ADRESS, PORT);
             writer = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
-            writer.println("STARTCOM/" + Base64.getEncoder().encodeToString(Cipher.getPublicKey().getEncoded()) + ";");
-            writer.flush();
             //prvni komuinikace se serverem
+            //Po připojení poslaní serveru příkaz STARTCOM k zahájení výměně klíčů
+            writer.println("STARTCOM/1");
+            writer.flush();
         } catch (IOException e) {
             logger.error("Nepodařilo se připojit k serveru od SENDER: " + e);
             closeConnectionSend();
@@ -75,9 +76,9 @@ public class Send implements Runnable {
         mapOfCommands.AddCommandToMap(new CommandEndGame(game, UI));
         mapOfCommands.AddCommandToMap(new CommandLogin(game, UI));
         mapOfCommands.AddCommandToMap(new CommandStartEncryption(game, UI));
+        mapOfCommands.AddCommandToMap(new CommandSendPubKey(game, UI));
 
         try {
-
 
             while (network.isConnected()) {
 

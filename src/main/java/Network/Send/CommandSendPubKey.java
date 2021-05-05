@@ -6,9 +6,12 @@
 package Network.Send;
 
 import Logic.Game;
+import Security.Cipher;
 import UI.UI;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.util.Base64;
 
 /**
  * Tato třída reprezentuje co se stane když se odešle příkaz STARTCOM. Snaho o
@@ -16,21 +19,21 @@ import org.slf4j.LoggerFactory;
  *
  * @author Miloslav Fico
  */
-public class CommandStartCommunationWithServer implements ISendCommands {
+public class CommandSendPubKey implements ISendCommands {
 
     private final Logger logger = LoggerFactory.getLogger(getClass());
-    private final String NAME_OF_COMMAND = StringCommandsSend.STARTCOM.toString().toUpperCase();
+    private final String NAME_OF_COMMAND = StringCommandsSend.PUBKEY.toString().toUpperCase();
     private final Game game;
     private final UI ui;
 
-    public CommandStartCommunationWithServer(Game game, UI ui) {
+    public CommandSendPubKey(Game game, UI ui) {
         this.game = game;
         this.ui = ui;
     }
 
     @Override
     public String doCommand() {
-    return null;
+        return "PUBKEY/"+ Base64.getEncoder().encodeToString(Cipher.getPublicKey().getEncoded());
     }
 
     @Override

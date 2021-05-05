@@ -17,7 +17,8 @@ public enum StringCommandsSend {
     SSEARCH,
     EGAME,
     LOG,
-    STARTENCRYPT;
+    STARTENCRYPT,
+    PUBKEY;
    
     
 }

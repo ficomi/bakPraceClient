@@ -55,6 +55,7 @@ public class Recive implements Runnable {
         mapOfCommands.AddCommandToMap(new CommandReciveField(game, this, UI));
         mapOfCommands.AddCommandToMap(new CommandUpdate(game, UI, this));
         mapOfCommands.AddCommandToMap(new CommandSetCommunication(game, UI, this));
+        mapOfCommands.AddCommandToMap(new CommandDecryptAsymKey(game, UI, this));
         logger.debug("Všechny příkazy uloženy pro Recive.");
         try {
             socket = new Socket(ADRESS, PORT);
@@ -77,6 +78,8 @@ public class Recive implements Runnable {
             while (network.isConnected()) {
                 String message = reader.readLine();
                 System.out.println("PZ : " + message);
+
+
                 if (Cipher.isEncrypted) {
                     message = Cipher.decrypt(message);
                 }
@@ -124,5 +127,9 @@ public class Recive implements Runnable {
 
     public NetworkThreadName getNAME() {
         return NAME;
+    }
+
+    public Network getNetwork() {
+        return network;
     }
 }

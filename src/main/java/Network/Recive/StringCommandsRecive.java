@@ -19,5 +19,6 @@ public enum StringCommandsRecive {
     FIELD,
     UPDATE,
     ERROR,
-    SETCOMMUNICATION;
+    SETCOMMUNICATION,
+    SYMKEY;
 }
