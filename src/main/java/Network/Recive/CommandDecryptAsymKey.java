@@ -51,6 +51,8 @@ public class CommandDecryptAsymKey implements IReciveCommands {
 
         } catch (Exception e) {
             logger.error("Chyba :" + e);
+            e.printStackTrace();
+            System.exit(2);
         }
 
     }

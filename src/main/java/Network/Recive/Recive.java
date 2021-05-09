@@ -103,6 +103,7 @@ public class Recive implements Runnable {
             logger.error("Nemůžu se pripojit k serveru od Recive: ");
             e.printStackTrace();
             closeConnectionRecive();
+            System.exit(1);
         } catch (Exception e) {
             e.printStackTrace();
         }

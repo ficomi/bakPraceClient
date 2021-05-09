@@ -40,11 +40,6 @@ public class CommandSetCommunication implements IReciveCommands {
 
             Cipher.createKeys(values[1],values[3],Integer.parseInt(values[2]),recive.getNetwork());
 
-            for (int i = 0;i<values.length;i++){
-                System.out.println(i+"   "+values[i]);
-            }
-
-
             CommandMapSend.setRequiredCommand(StringCommandsSend.PUBKEY);
             recive.getNetwork().getNetworkThread(NetworkThreadName.SENDER).interrupt();
             logger.debug("Přijat veřejný klíč serveru");
